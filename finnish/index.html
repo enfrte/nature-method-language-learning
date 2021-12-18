@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<script defer src="js/alpine-js-3x.js"></script>
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">
+	<link rel="stylesheet" href="style.css">
+	<title>ido</title>
+</head>
+<body>
+
+<header>
+    <hgroup>
+        <h1>ido</h1>
+        <a href="https://2038.host/"><h2>This site will self destruct in 2038</h2></a>
+    </hgroup>
+</header>
+
+<nav>
+	<ul>
+		<li><a href="/">Home</a></li>
+	</ul>
+</nav>
+
+<div 
+	x-data="fetchChapters()"
+	x-init="fetch('chapter-data.json')
+		.then(response => response.json())
+		.then(fetchData => data = fetchData)
+		.then(log => console.log(log))">
+
+
+	<template x-for="chapter in data" :key="chapter.id">
+		<section x-bind:id="`chapter_` + chapter.id">
+			<h2 class="page-header" x-text="chapter.index_title"></h2>
+
+			<template x-for="page in chapter.page">
+				<article>
+					<div class="article-main">
+						<div>
+							<h2 class="chapter-title" x-show="chapter.title" x-text="chapter.title"></h2>
+							<div class="article-content-container">
+								<template x-for="content in page.content">
+									<span class="article-span" x-html="content"></span>
+								</template>
+							</div>
+						</div>
+						<p class="page-number"><span>Sivu </span><span x-text="page.id"></span></p>
+					</div>
+					<aside>
+						<template x-for="aside in page.aside">
+							<div class="aside-content-container">
+								<template x-for="item in aside">
+									<span class="aside-span" x-html="item"></span>
+								</template>
+							</div>
+						</template>
+					</aside>
+				</article>
+			</template>
+
+		</section>
+	</template>
+
+</div>
+
+<script>
+	function fetchChapters() {
+		return {
+			data: [],
+		}
+	}
+</script>
+
+</body>
+</html>

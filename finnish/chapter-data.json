@@ -1,0 +1,82 @@
+[
+	{
+		"id": 1,
+		"index_title": "Luku yksi (1)",
+		"index_slug": "Ensimmäinen luku",
+		"title": "Perhe",
+		"page": [
+			{
+				"id": 9,
+				"content": [
+					"<image src='img/c_01_p_009_n_1.png'/>",
+					"Herra Kivi on mies.",
+					"Rouva Kivi on nainen.",
+					"Joni on poika.",
+					"Helena on tyttö.",
+					"Vauva on myös tyttö.",
+					"Helena ja vauva ovat tyttöjä.",
+					"Herra Kivi on isä.",
+					"Rouva Kivi on äiti.",
+					"Joni on lapsi.",
+					"Helena on lapsi.",
+					"Vauva on lapsi.",
+					"Joni, Helena, ja vauva ovat lapsia."
+				],
+				"aside": [
+					[
+						"on", 
+						"ovat", 
+						"Joni on poika.",
+						"Helena ja vauva ovat tyttöjä.",
+						"yksi (1) tyttö",
+						"kaksi (2) tyttöä",
+						"yksi (1) lapsi",
+						"kaksi (2) lasta",
+						"Helena on tyttö.",
+						"Helena ja vauva ovat tyttöjä."
+					]
+				]
+			}
+		]
+	},
+	{
+		"id": 2,
+		"index_title": "Luku yksi (1)",
+		"index_slug": "Ensimmäinen luku",
+		"page": [
+			{
+				"id": 10,
+				"content": [
+					"Herra Kivi on Jonin isä.",
+					"Herra Kivi on Helanan isä.",
+					"Herra Kivi on vauvan isä.",
+					"Herra Kivi on lasten isä.",
+					"Rouva Kivi on Jonin, Helanan ja vauvan äiti.",
+					"Herra ja Rouva Kivi ovat lasten vanhemmat.",
+					"Joni on Herra ja Rouva Kivin poika.",
+					"Herra ja Rouva Kivi ovat Jonin vanhemmat.",
+					"Helena on Herra ja Rouva Kivin tytär.",
+					"Herra ja Rouva Kivi ovat Helanan vanhemmat.",
+					"Vauva on myös Herra ja Rouva Kivin tytär.",
+					"Herra ja Rouva Kivi ovat vauvan vanhemmat",
+					"Herra Kivi, Rouva Kivi, Joni, Helena ja vauva ovat perhe.",
+					"Perheessä on viisi (5) ihmista.",
+					"Herra Kivi on ihmisen.",
+					"Rouva Kivi on ihmisen."
+				],
+				"aside": [
+					[
+						"<image src='img/c_01_p_010_n_1.png'/>"
+					],
+					[
+						"Joni on poika.",
+						"Poika on Joni.",
+						"Helena ja vauva ovat tyttöt.",
+						"Tyttöt ovat Helena ja vauva.",
+						"Lasten isä."
+					]
+				]
+			}
+		]
+	}
+]
