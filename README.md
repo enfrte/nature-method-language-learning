@@ -2,6 +2,10 @@
 
 Create digital versions of the old books based on the nature method of language learning. 
 
+## Requirements
+
+AlpineJS 3x - https://alpinejs.dev/
+
 ## JSON naming conventions and behaviour
 
 Pages from the printed book are mapped to "pages". In the html markup, "pages" are assigned the article tag. 
