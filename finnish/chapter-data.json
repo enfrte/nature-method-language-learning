@@ -78,5 +78,45 @@
 				]
 			}
 		]
+	},
+	{
+		"id": 3,
+		"index_title": "Luku yksi (1)",
+		"index_slug": "Ensimmäinen luku",
+		"page": [
+			{
+				"id": 11,
+				"content": [
+					"Joni on ihminen.",
+					"Helena on ihminen, ja vauva on myös ihminen.",
+					"Kuinka monta ihmista ovat perheessä?",
+					"Perheessä ovat viisi ihmista.",
+					"Ketkä ovat viisi ihmista perheessä?",
+					"He ovat isä, äiti, poikä, tytär, vauva tytär.",
+					"Kuinka monta lasta ovat perheessä?",
+					"Perheessä ovat kolme lasta.",
+					"Ketkä ovat kolme lasta perheessä?",
+					"He ovat poikä, tytär ja vauva tytär.",
+					"Kuinka monta tyttöä ovat perheessä?",
+					"Perheessä ovat kaksi tyttöä.",
+					"Ketkä ovat kaksi tyttöä perheessä?",
+					"He ovat tytär ja vauva tytär.",
+					"Kuinka monta poikaa ovat perheessä?",
+					"On yksi poika perheessä."
+				],
+				"aside": [
+					[
+						"Kuinka monta?",
+						"Kuinka monta tyttöä ovat perheessä?"
+					],
+					[
+						"on",
+						"ovat",
+						"On yksi poika perheessä.",
+						"Ovat kaksi tyttöä perheessä."
+					]
+				]
+			}
+		]
 	}
 ]

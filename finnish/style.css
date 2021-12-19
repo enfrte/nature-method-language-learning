@@ -45,6 +45,7 @@ nav a {
 	text-decoration-color: var(--border-color);
 	text-decoration-thickness: .125em;
 	text-underline-offset: 1.5px;
+	color: var(--border-color);
 }
 
 section {
