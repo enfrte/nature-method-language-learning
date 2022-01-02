@@ -8,7 +8,7 @@
 			{
 				"id": 9,
 				"content": [
-					"<image src='img/c_01_p_009_n_1.png'/>",
+					"<image src='lang/finnish/img/c_01_p_009_n_1.png'/>",
 					"Herra Kivi on mies.",
 					"Rouva Kivi on nainen.",
 					"Joni on poika.",
@@ -66,7 +66,7 @@
 				],
 				"aside": [
 					[
-						"<image src='img/c_01_p_010_n_1.png'/>"
+						"<image src='lang/finnish/img/c_01_p_010_n_1.png'/>"
 					],
 					[
 						"Joni on poika.",
@@ -129,7 +129,7 @@
 				"content": [
 					"Kuka poika on?",
 					"Poika on Joni.",
-					"Hän on herra Kiven poika",
+					"Hän on herra Kiven poika.",
 					"Tyttö on Helena.",
 					"Hän on herra Kiven tytär.",
 					"Mies on herra Kivi.",

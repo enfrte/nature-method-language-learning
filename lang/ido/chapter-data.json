@@ -8,7 +8,7 @@
 			{
 				"id": 9,
 				"content": [
-					"<image src='img/c_01_p_009_n_1.png'/>",
+					"<image src='lang/ido/img/c_01_p_009_n_1.png'/>",
 					"Sioro Smith es viro.",
 					"Sioro Smith es muliero.",
 					"John es puerulo.",
@@ -51,21 +51,21 @@
 					"Sioro Smith es la patro di la bebeo.",
 					"Sioro Smith es la patro di la infanti.",
 					"Sioro Smith es la matro di John, Helan e la bebeo.",
-					"Siorulo e Siorino Smith es la genitori di la infanti.",
+					"Siorulo e siorino Smith es la genitori di la infanti.",
 					"John es la filiulo di siorulo e siorino Smith.",
-					"Siorulo e Siorino Smith es la genitori di John.",
-					"Helen es la filiino di Siorulo e Siorino Smith.",
-					"Siorulo e Siorino Smith es la genitori di Helan.",
-					"La bebeo es anke la filiino di Siorulo e Siorino Smith.",
-					"Siorulo e Siorino Smith es la genitori di la bebeo.",
-					"Siorulo Smith, Siorino Smith, John, Helen e la bebeo es familio.",
+					"Siorulo e siorino Smith es la genitori di John.",
+					"Helen es la filiino di siorulo e siorino Smith.",
+					"Siorulo e siorino Smith es la genitori di Helan.",
+					"La bebeo es anke la filiino di siorulo e siorino Smith.",
+					"Siorulo e siorino Smith es la genitori di la bebeo.",
+					"Siorulo Smith, siorino Smith, John, Helen e la bebeo es familio.",
 					"En la familio es kin (5) homi.",
 					"Siorulo Smith es homo.",
 					"Siorino Smith es homo."
 				],
 				"aside": [
 					[
-						"<image src='img/c_01_p_010_n_1.png'/>"
+						"<image src='lang/ido/img/c_01_p_010_n_1.png'/>"
 					],
 					[
 						"John es puerulo.",
