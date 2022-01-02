@@ -28,7 +28,7 @@
 
 <div 
 	x-data="fetchChapters()"
-	x-init="fetch('chapter-data.json')
+	x-init="fetch('lang/finnish/chapter-data.json')
 		.then(response => response.json())
 		.then(fetchData => data = fetchData)
 		.then(log => console.log(log))">

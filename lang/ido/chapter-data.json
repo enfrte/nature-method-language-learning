@@ -1,0 +1,235 @@
+[
+	{
+		"id": 1,
+		"index_title": "Parto un (1)",
+		"index_slug": "Unesma chapitro",
+		"title": "Familio",
+		"page": [
+			{
+				"id": 9,
+				"content": [
+					"<image src='img/c_01_p_009_n_1.png'/>",
+					"Sioro Smith es viro.",
+					"Sioro Smith es muliero.",
+					"John es puerulo.",
+					"Helen es puerino.",
+					"La bebeo es anke puerino.",
+					"Helen e la bebeo es puerini.",
+					"Sioro Smith es patro.",
+					"Sioro Smith es matro.",
+					"John es infanto.",
+					"Helen es infanto.",
+					"La bebeo es infanto.",
+					"John, Helen, e la bebeo es infanti."
+				],
+				"aside": [
+					[
+						"es", 
+						"John es puerulo.",
+						"Helen e la bebeo es puerini.",
+						"un (1) puerino",
+						"du (2) puerini",
+						"un (1) infanto",
+						"du (2) infanti",
+						"Helen es puerino.",
+						"Helen e la bebeo es puerini."
+					]
+				]
+			}
+		]
+	},
+	{
+		"id": 2,
+		"index_title": "Parto un (1)",
+		"index_slug": "Unesma chapitro",
+		"page": [
+			{
+				"id": 10,
+				"content": [
+					"Sioro Smith es la patro di John.",
+					"Sioro Smith es la patro di Helen.",
+					"Sioro Smith es la patro di la bebeo.",
+					"Sioro Smith es la patro di la infanti.",
+					"Sioro Smith es la matro di John, Helan e la bebeo.",
+					"Siorulo e Siorino Smith es la genitori di la infanti.",
+					"John es la filiulo di siorulo e siorino Smith.",
+					"Siorulo e Siorino Smith es la genitori di John.",
+					"Helen es la filiino di Siorulo e Siorino Smith.",
+					"Siorulo e Siorino Smith es la genitori di Helan.",
+					"La bebeo es anke la filiino di Siorulo e Siorino Smith.",
+					"Siorulo e Siorino Smith es la genitori di la bebeo.",
+					"Siorulo Smith, Siorino Smith, John, Helen e la bebeo es familio.",
+					"En la familio es kin (5) homi.",
+					"Siorulo Smith es homo.",
+					"Siorino Smith es homo."
+				],
+				"aside": [
+					[
+						"<image src='img/c_01_p_010_n_1.png'/>"
+					],
+					[
+						"John es puerulo.",
+						"La puerulo es John.",
+						"Helen e bebeo es puerino.",
+						"La puerini es Helen e la bebeo.",
+						"La patro di la infanti."
+					]
+				]
+			}
+		]
+	},
+	{
+		"id": 3,
+		"index_title": "Parto un (1)",
+		"index_slug": "Unesma parto",
+		"page": [
+			{
+				"id": 11,
+				"content": [
+					"John es homo.",
+					"Helen es homo, e bebeo es anke homo.",
+					"Quanta homi es en la familio?",
+					"Es kin homi en la familio.",
+					"Qua es la kin homi en la familio?",
+					"Li es la patro, matro, filiulo, filiino e la bebeino.",
+					"Quanta infanti es en la familio?",
+					"Es tri infanti en la familio.",
+					"Qua es la tri infanti en la familio?",
+					"Li es la filiulo, filiino e la bebeino.",
+					"Quanta puerini es en la familio?",
+					"Es du puerini en la familio.",
+					"Qua es la du puerini en la familio?",
+					"Li es la filiino e bebeino.",
+					"Quanta pueruli es en la familio?",
+					"Es un puerulo en la familio."
+				],
+				"aside": [
+					[
+						"Quanta?",
+						"Quanta puerini es en al familio?"
+					],
+					[
+						"es",
+						"Es un puerulo en la familio.",
+						"Es du puerini en la familio."
+					]
+				]
+			}
+		]
+	},
+	{
+		"id": 4,
+		"index_title": "Parto un (1)",
+		"index_slug": "Unesma parto",
+		"page": [
+			{
+				"id": 12,
+				"content": [
+					"Qua es la puerulo?",
+					"Puerulo es John.",
+					"Ol es la filiulo di siorulo Smith.",
+					"La puerino es Helen.",
+					"Ol es la filiino di siorulo Smith.",
+					"La viro es sioro Smith.",
+					"Ol es la patro.",
+					"La muliero es sioro Smith.",
+					"Ol es la matro.",
+					"Viro e muliero es siorulo a siorino Smith.",
+					"Li es la genitori.",
+					"John es la fratulo di Helen.",
+					"Helen es la fratino di John.",
+					"La bebeo es la fratino di John e Helen.",
+					"La bebeo e Helen es fratini.",
+					"John e Helen es frati.",
+					"Sioro Smith es la espozulo di sioro Smith.",
+					"Sioro Smith es la espozino di sioro Smith.",
+					"Qua es siorulo Smith?",
+					"Ol es la espozulo di sioro Smith e la parto di la tri infanti.",
+					"Qua es siorino Smith?",
+					"Ol es la espozino di sioro Smith e la matro di la tri infanti."
+				],
+				"aside": [
+					[
+						"Qua?",
+						"ol",
+						"li",
+						"Qua es John?",
+						"Ol es la filiulo.",
+						"Qua es Helen?",
+						"Ol es la filiino.",
+						"Qua es Helen e la bebeo?",
+						"Li es la filii."
+					],
+					[
+						"(homi: [viro, muliero, puerulo, puerino, bebeo])",
+						"(genitori: [patro, matro])",
+						"(infanti: [puerulo, puerino, bebeo])"
+					]
+				]
+			}
+		]
+	},
+	{
+		"id": 5,
+		"index_title": "Parto un (1)",
+		"index_slug": "Unesma parto",
+		"page": [
+			{
+				"id": 13,
+				"content": [
+					"La tri infanti es la filiulo, filiino e la bebeo di siorulo e siorino Smith.",
+					"La patro, matro, filiulo, filiino e bebeino es familio di kin homi.",
+					"<h3 class='chapter-sub-title'>Praktiko A</h3>",
+					"Siorulo Smith es ———.",
+					"Siorino Smith es ———.",
+					"John es ———.",
+					"Helen es ———.",
+					"Helen e bebeo es ———.",
+					"John es ———, e Helen e bebeo es myös ———.",
+					"——— un puerulo en la familio.",
+					"——— du puerino en la familio.",
+					"——— un patro en la familio.",
+					"——— un puerulo en la familio.",
+					"John ——— la filiulo.",
+					"Sioro Smith ——— la matro.",
+					"Siorulo e siorino Smith ——— genitori.",
+					"John, Helen e bebeo ——— infanti.",
+					"Siorulo Smith es ——— patro di John.",
+					"Helen es la filiino ——— siorulo Smith.",
+					"John, Helen e bebeo es ——— infanti ——— siorulo Smith.",
+					"<br><br>",
+					"La viro es ——— Smith.",
+					"Ol ——— la patro.",
+					"La puerulo es John; ——— es la filiulo.",
+					"La muliero es ——— Smith; ——— es la mator.",
+					"La puerino es Helen e la bebeo; ——— es la filiino.",
+					"John es la ——— di Helenn.",
+					"Helen es la ——— di John.",
+					"John e Helen es ———."
+
+				],
+				"aside": [
+					[
+						"<h3 class='chapter-sub-title'>Vorti</h3>",
+						"viro",
+						"muliero",
+						"siorulo",
+						"siorino",
+						"puero",
+						"puerino",
+						"bebeo",
+						"homo",
+						"infanto",
+						"infanti",
+						"patro",
+						"matro",
+						"filiino",
+						"fratulo"
+					]
+				]
+			}
+		]
+	}
+
+
+]
