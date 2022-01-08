@@ -230,6 +230,115 @@
 				]
 			}
 		]
+	},
+	{
+		"id": 6,
+		"index_title": "Parto un (1)",
+		"index_slug": "Unesma parto",
+		"page": [
+			{
+				"id": 14,
+				"content": [
+					"Sioro Smith es la ——— di sioro Smith.",
+					"Sioro Smith es la ——— di sioro Smith.",
+					"<br><br>",
+					"Es kin ——— en la familio.",
+					"La kin ——— en la familio es la ———, la ———, la ———, la ———, e la ———.",
+					"——— puerulo es John; ——— ——— la filiulo.",
+					"——— viro es sioro Smith; ol es la ———.",
+					"——— muliero is sioro Smith; ol es la ———.",
+					"——— puerini es Helen e la bebeo; Li es la ———.",
+					"——— patro e ——— matro es siori Smith; li es ——— genitori di la infanti.",
+					"<br><br>",
+					"——— es siorulo Smith?",
+					"Ol es la patro ——— ——— infanti.",
+					"——— infanti es en la familio?",
+					"Es ——— infanti en la familio.",
+					"——— pueruli es en la familio.",
+					"Es ——— puerulo en la familio.",
+					"——— puerini es en la familio.",
+					"Es ——— puerini en la familio.",
+					"——— es la tri infanti en la familio.",
+					"La ——— infanti es John, Helen e la bebeo.",
+					"——— es la puerulo.",
+					"La ——— es John.",
+					"——— es la puerini?",
+					"——— puerini ——— Helen e la bebeo.",
+					"——— homi ——— en la familio?",
+					"——— kin ——— en la familio.",
+					"——— es la ——— homi en ——— familio?",
+					"——— es ——— patro, ——— matro, ——— puerulo, e ——— du puerini.",
+					"<br><br>",
+					"<h3 class='chapter-sub-title'>Praktiko B</h3>",
+					"Qua es la viro?",
+					"——— ——— ——— ——— ———.",
+					"Qua es la muliero?",
+					"——— ——— ——— ——— ———.",
+					"Qua es la du puerini?",
+					"——— ——— ——— ——— ——— ——— ——— ———.",
+					"Qua es la genitori di John, Helen, e la bebeo?",
+					"———...",
+					"Quanta homi es en la familio?"
+				],
+				"aside": [
+					[
+						"genitori",
+						"familio",
+						"spozino",
+						"spozulo",
+						"un",
+						"du",
+						"tri",
+						"la",
+						"es",
+						"di",
+						"ol",
+						"li",
+						"e",
+						"anke",
+						"kin",
+						"en",
+						"quanta",
+						"qua",
+						"praktiko",
+						"vorto"
+					]
+				]
+			}
+		]
+	},
+	{
+		"id": 7,
+		"index_title": "Parto un (1)",
+		"index_slug": "Unesma parto",
+		"page": [
+			{
+				"id": 15,
+				"content": [
+					"Qua es la kin homi?",
+					"———...",
+					"Quanta infanti es en la familio?",
+					"———...",
+					"Qua li es?",
+					"———...",
+					"Quanta puerini es en la familio?",
+					"———...",
+					"Qua li es?",
+					"———...",
+					"Quanta pueruli es en la familio?",
+					"———...",
+					"Qua es Helen?",
+					"———...",
+					"Qua es siorino Smith?",
+					"———...",
+					"Qua es siorulo Smith?",
+					"———..."
+				],
+				"aside": [
+					[]
+				]
+			}
+		]
 	}
 
 
