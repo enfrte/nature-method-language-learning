@@ -1,0 +1,341 @@
+[
+	{
+		"id": 1,
+		"index_title": "Capitol un (1)",
+		"index_slug": "Capitol un",
+		"title": "Familila",
+		"page": [
+			{
+				"id": 9,
+				"content": [
+					"<image src='lang/lfn/img/c_01_p_009_n_1.png'/>",
+					"Senior Smith es un om.",
+					"Seniora Smith es un fem.",
+					"John es un xico.",
+					"Helen es un xica.",
+					"La bebe es ance un xica.",
+					"Helen e la bebe es xicas.",
+					"Senior Smith es la padre.",
+					"Seniora Smith es la madre.",
+					"John es un enfante.",
+					"Helen es un enfante.",
+					"La bebe es un enfante.",
+					"John, Helen, e la bebe es enfantes."
+				],
+				"aside": [
+					[
+						"es", 
+						"John es un xico.",
+						"Helen e la bebe es xicas.",
+						"un (1) xica",
+						"du (2) xicas",
+						"un (1) enfante",
+						"du (2) enfantes",
+						"Helen es un xica.",
+						"Helen e la bebe es xicas."
+					]
+				]
+			}
+		]
+	},
+	{
+		"id": 2,
+		"index_title": "Capitol un (1)",
+		"index_slug": "Capitol un",
+		"page": [
+			{
+				"id": 10,
+				"content": [
+					"Senior Smith es la padre de John.",
+					"Senior Smith es la padre de Helen.",
+					"Senior Smith es la padre de la bebe.",
+					"Senior Smith es la padre de la enfantes.",
+					"Seniora Smith es la madre de John, Helen e la bebe.",
+					"Senior e seniora Smith es la jenitores de la enfantes.",
+					"John es la fio de senior e seniora Smith.",
+					"Senior e seniora Smith es la jenitores de John.",
+					"Helen es la fia de senior e seniora Smith.",
+					"Senior e seniora Smith es la jenitores de Helen.",
+					"La bebe es ance la fia de senior e seniora Smith.",
+					"Senior e seniora Smith es la jenitores de la bebe",
+					"Senior Smith, seniora Smith, John, Helen e la bebe es un familia.",
+					"On ave sinco (5) persones en la familia.",
+					"Senior Smith es un person.",
+					"Seniora Smith es un person."
+				],
+				"aside": [
+					[
+						"<image src='lang/lfn/img/c_01_p_010_n_1.png'/>"
+					],
+					[
+						"John es un xico.",
+						"La xico es John.",
+						"Helen e la bebe es xicas.",
+						"La xicas es Helen e la bebe.",
+						"La padre de la enfantes."
+					]
+				]
+			}
+		]
+	},
+	{
+		"id": 3,
+		"index_title": "Capitol un (1)",
+		"index_slug": "Capitol un",
+		"page": [
+			{
+				"id": 11,
+				"content": [
+					"John es un person.",
+					"Helen es un person, e la bebe es ance un person.",
+					"Cuanto persones on ave en la familia?",
+					"On ave sinco persones en la familia.",
+					"Ci es la sinco persones en la familia?",
+					"Los es la padre, madre, fio, fia, e la fia bebe.",
+					"Cuanto enfantes on ave en la familia?",
+					"On ave tre enfantes en la familia.",
+					"Ci es la tre enfantes en la familia?",
+					"Los es la fio, fia e la fia bebe.",
+					"Cuanto xicas on ave en la familia?",
+					"On ave du xicas en la familia.",
+					"Ci es la du xicas en la familia?",
+					"Los es la fia e la fia bebe.",
+					"Cuanto xicos on ave en la familia?",
+					"On ave un xico en la familia."
+				],
+				"aside": [
+					[
+						"Cuanto?",
+						"Cuanto xicas on ave en la familia?"
+					],
+					[
+						"on ave",
+						"es",
+						"On ave un xico en la familia.",
+						"On ave du xicas en la familia."
+					]
+				]
+			}
+		]
+	},
+	{
+		"id": 4,
+		"index_title": "Capitol un (1)",
+		"index_slug": "Capitol un",
+		"page": [
+			{
+				"id": 12,
+				"content": [
+					"Ci es la xico?",
+					"La xico es John.",
+					"El es la fio de senior Smith.",
+					"La xica es Helen.",
+					"El es la fia de senior Smith.",
+					"La om es senior Smith; el es la padre.",
+					"La fem es seniora Smith; el es la madre.",
+					"La om e la fem es senior e seniora Smith; los es la jenitores.",
+					"John es la frate de Helen.",
+					"Helen es la sore de John.",
+					"La bebe es la sore de John e Helen.",
+					"La bebe e Helen es sores.",
+					"John e Helen es frate e sore.",
+					"Senior Smith es la spozo de seniora Smith.",
+					"Seniora Smith es la spoza de senior Smith.",
+					"Ci es senior Smith?",
+					"El es la spozo de seniora Smith e la padre de la tre enfantes.",
+					"Ci es seniora Smith?",
+					"El es la spoza de senior Smith e la madre de la tren enfantes."					
+				],
+				"aside": [
+					[
+						"ci?",
+						"el",
+						"los",
+						"Ci es John?",
+						"El es la fio.",
+						"Ci es Helen?",
+						"El es la fia",
+						"Ci es Helen e la bebe?",
+						"Los es la fias."
+					],
+					[
+						"(persones: [om, fem, xico, xica, bebe])",
+						"(jenitores: [padre, madre])",
+						"(enfantes: [xico, xica, bebe])"
+					]
+				]
+			}
+		]
+	},
+	{
+		"id": 5,
+		"index_title": "Capitol un (1)",
+		"index_slug": "Capitol un",
+		"page": [
+			{
+				"id": 13,
+				"content": [
+					"La tre enfantes es la fio, fia e la fia bebe de senior e seniora Smith.",
+					"La padre, la madre, la fio, la fia e la fia bebe es un sinco person familia.",
+					"<h3 class='chapter-sub-title'>Eserse A</h3>",
+					"Senior Smith es un ———.",
+					"Seniora Smith es un ———.",
+					"John es un ———.",
+					"Helen es un ———.",
+					"Helen e la bebe es ———.",
+					"John es un ———, e Helen e la bebe es ance ———.",
+					"On ——— un xico en la familia.",
+					"On ——— du xicas en la familia.",
+					"On ——— un padre en la familia.",
+					"On ——— tre enfantes en la familia.",
+					"John ——— la fio.",
+					"Seniora Smith ——— la madre.",
+					"Senior e seniora Smith ——— jenitores.",
+					"John, Helen e la bebe ——— enfantes.",
+					"Senior Smith es ——— padre de John.",
+					"Helen es la fia ——— senior Smith.",
+					"John, Helen e la bebe es ——— enfantes ——— senior Smith.",
+					"<br><br>",
+					"La om es ——— Smith; el ——— la padre.",
+					"La xico es John; ——— es la fio.",
+					"La fem es ——— Smith; ——— es la madre.",
+					"La xicas es Helen e la bebe; ——— es la fias.",
+					"John es la ——— de Helen.",
+					"Helen es la ——— de John.",
+					"John e Helen es ——— e ———."
+
+				],
+				"aside": [
+					[
+						"<h3 class='chapter-sub-title'>Parolas</h3>",
+						"om",
+						"fem",
+						"senior",
+						"seniora",
+						"xico",
+						"xica",
+						"bebe",
+						"person",
+						"enfante",
+						"enfantes",
+						"padre",
+						"madre",
+						"fio",
+						"fia",
+						"sore",
+						"frate"
+					]
+				]
+			}
+		]
+	},
+	{
+		"id": 6,
+		"index_title": "Capitol un (1)",
+		"index_slug": "Capitol un",
+		"page": [
+			{
+				"id": 14,
+				"content": [
+					"Senior Smith es la ——— de seniora Smith.",
+					"Seniora Smith es la ——— de senior Smith.",
+					"<br><br>",
+					"On ave sinco ——— en la familia.",
+					"La sinco ——— en la familia es la ———, la ———, la ———, la ———, e la ———.",
+					"——— xico es John; ——— ——— la fio.",
+					"——— om es senior Smith; el es la ———.",
+					"——— fem es seniora Smith; el es la ———.",
+					"——— xicas es Helen e la bebe; Los es la ———.",
+					"——— patro e ——— matro es senior e seniora Smith; Los es ——— jenitores de la enfantes.",
+					"<br><br>",
+					"——— es senior Smith?",
+					"El es la patro ——— ——— enfantes.",
+					"——— enfantes on ave en la familia?",
+					"On ave ——— enfantes en la familia.",
+					"——— xicos on ave en la familia.",
+					"On ave ——— xico en la familia.",
+					"——— xicas on ave en la familia.",
+					"On ave ——— xicas en la familia.",
+					"——— es la tri enfantes en la familia.",
+					"La ——— enfantes es John, Helen e la bebe.",
+					"——— es la xico.",
+					"La ——— es John.",
+					"——— es la xicas?",
+					"——— xicas ——— Helen e la bebe.",
+					"——— persones ——— ——— en la familia?",
+					"——— ——— sinco ——— en la familia.",
+					"——— es la ——— persones en ——— familia?",
+					"——— es ——— patro, ——— matro, ——— xico, e ——— du xicas.",
+					"<br><br>",
+					"<h3 class='chapter-sub-title'>Eserse B</h3>",
+					"Ci es la om?",
+					"——— ——— ——— ——— ———.",
+					"Ci es la fem?",
+					"——— ——— ——— ——— ———.",
+					"Ci es la du xicas?",
+					"——— ——— ——— ——— ——— ——— ——— ———.",
+					"Ci es la genitori de John, Helen, e la bebe?",
+					"———...",
+					"Cuanto persones on ave en la familia?"
+				],
+				"aside": [
+					[
+						"jenitores",
+						"familia",
+						"spozo",
+						"spoza",
+						"un",
+						"du",
+						"tre",
+						"la",
+						"es",
+						"de",
+						"el",
+						"los",
+						"e",
+						"ance",
+						"sinco",
+						"en",
+						"cuanto",
+						"ci",
+						"eserse",
+						"parola"
+					]
+				]
+			}
+		]
+	},
+	{
+		"id": 7,
+		"index_title": "Capitol un (1)",
+		"index_slug": "Capitol un",
+		"page": [
+			{
+				"id": 15,
+				"content": [
+					"Ci es la sinco persones?",
+					"———...",
+					"Cuanto enfantes on ave en la familia?",
+					"———...",
+					"Ci los es?",
+					"———...",
+					"Cuanto xicas on ave en la familia?",
+					"———...",
+					"Ci los es?",
+					"———...",
+					"Cuanto xicos on ave en la familia?",
+					"———...",
+					"Ci es Helen?",
+					"———...",
+					"Ci es seniora Smith?",
+					"———...",
+					"Ci es senior Smith?",
+					"———..."
+				],
+				"aside": [
+					[]
+				]
+			}
+		]
+	}
+]
