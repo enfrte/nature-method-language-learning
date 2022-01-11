@@ -2,6 +2,8 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
+	<meta name="description" content="Language learning demos">
+	<meta name="keywords" content="Language by the Nature Method, Ido, Finnish, elefen, Lingua Franca Nova">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<script defer src="js/alpine-js-3x.js"></script>
@@ -28,7 +30,7 @@
 
 <div 
 	x-data="fetchChapters()"
-	x-init="fetch('lang/lfn/chapter-data.json?20220109')
+	x-init="fetch('lang/lfn/chapter-data.json?20220111')
 		.then(response => response.json())
 		.then(fetchData => data = fetchData)
 		.then(log => console.log(log))">
