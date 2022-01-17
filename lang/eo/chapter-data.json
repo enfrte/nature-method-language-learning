@@ -1,0 +1,348 @@
+[
+	{
+		"id": 1,
+		"index_title": "Ĉapitro unu (1)",
+		"index_slug": "La unua Ĉapitro ",
+		"title": "Familio",
+		"page": [
+			{
+				"id": 9,
+				"content": [
+					"<image src='lang/eo/img/c_01_p_009_n_1.png'/>",
+					"Sinjoro Smith estas viro.",
+					"Sinjorino Smith estas virino.",
+					"John estas knabo.",
+					"Helen estas knabino.",
+					"Ankau la bebo estas knabino.",
+					"Helen kaj la bebo estas knabinoj.",
+					"Sinjoro Smith estas la patro.",
+					"Sinjorino Smith estas la patrino.",
+					"John estas infano.",
+					"Helen estas infano.",
+					"La bebo estas infano.",
+					"John, Helen, kaj la bebo estas infanoj."
+				],
+				"aside": [
+					[
+						"estas",
+						"John estas knabo.",
+						"Helen estas knabino.",
+						"Helen kaj la bebo estas knabinoj.",
+						"unu (1) knabino",
+						"du (2) knabinoj",
+						"unu (1) infano",
+						"du (2) infanoj"
+					]
+				]
+			}
+		]
+	},
+	{
+		"id": 2,
+		"index_title": "Ĉapitro unu (1)",
+		"index_slug": "La unua Ĉapitro",
+		"page": [
+			{
+				"id": 10,
+				"content": [
+					"Sinjoro Smith estas la patro de John.",
+					"Sinjoro Smith estas la patro de Helen.",
+					"Sinjoro Smith estas la patro de la bebo.",
+					"Sinjoro Smith estas la patro de la infanoj.",
+					"Sinjorino Smith estas la patrino de John, Helen, kaj la bebo.",
+					"Sinjoro Smith kaj Sinjorino Smith estas la gepatroj.",
+					"John estas la filo de Sinjoro kaj Sinjorino Smith.",
+					"Sinjoro kaj Sinjorino Smith estas la gepatroj de John.",
+					"Helen estas la filino de Sinjoro kaj Sinjorino Smith",
+					"Sinjoro kaj Sinjorino Smith estas la gepatroj de Helen",
+					"Ankau la bebo estas la filino de Sinjoro kaj Sinjorino Smith.",
+					"Sinjoro kaj Sinjorino Smith estas la gepatroj de la bebo.",
+					"Sinjoro Smith, Sinjorino Smith, John, Helen, kaj la bebo estas familio.",
+					"Estas kvin homoj en la familio.",
+					"Sinjoro Smith estas homo.",
+					"Sinjorino Smith estas homo.",
+					"John estas homo."
+				],
+				"aside": [
+					[
+						"<image src='lang/eo/img/c_01_p_010_n_1.png'/>",
+						"la",
+						"John estas knabo.",
+						"La knabo estas John.",
+						"Helen kaj la bebo estas knabino.",
+						"La knabino estas Helen kaj la bebo.",
+						"de",
+						"La patro de la infanoj."
+					]
+				]
+			}
+		]
+	},
+	{
+		"id": 3,
+		"index_title": "Ĉapitro unu (1)",
+		"index_slug": "La unua Ĉapitro",
+		"page": [
+			{
+				"id": 11,
+				"content": [
+					"Helen estas homo, kaj ankaŭ la bebo estas homo.",
+					"Kiom da homoj estas en la familio?",
+					"Estas kvin homoj en la familio.",
+					"Kiuj estas la kvin homoj en la familio?",
+					"Ili estas la patro, la patrino, la filo, la filino, kaj la beba filino.",
+					"Kiom da infanoj estas en la familio?",
+					"Estas tri infanoj en la familio.",
+					"Kiuj estas la tri infanoj en la familio?",
+					"Ili estas la filo, la filino, kaj la beba filino.",
+					"Kiom da knabinoj estas en la familio?",
+					"Estas du knabinoj en la familio.",
+					"Kiuj estas la du knabinoj en la familio?",
+					"Ili estas la filino kaj la beba filino.",
+					"Kiom da knaboj estas en la familio?",
+					"Estas unu knabo en la familio."
+				],
+				"aside": [
+					[
+						"kiom da?",
+						"Kiom da knabinoj estas en la familio?"
+					],
+					[
+						"estas",
+						"Estas unu knabo en la familio.",
+						"Estas du knabinoj en la familio."
+					]
+				]
+			}
+		]
+	},
+	{
+		"id": 4,
+		"index_title": "Ĉapitro unu (1)",
+		"index_slug": "La unua Ĉapitro",
+		"page": [
+			{
+				"id": 12,
+				"content": [
+					"Kiu estas la knabo?",
+					"La knabo estas John; li estas la filo de Sinjoro Smith.",
+					"La knabino estas Helen; ŝi estas la filino de Sinjoro Smith.",
+					"La viro estas Sinjoro Smith; li estas la patro.",
+					"La virino estas Sinjorino Smith; ŝi estas la patrino.",
+					"La viro kaj la virino estas Sinjoro kaj Sinjorino Smith; ili estas la gepatroj.",
+					"<br><br>",
+					"John estas la frato de Helen.",
+					"Helen estas la fratino de John.",
+					"La bebo estas la fratino de John kaj Helen.",
+					"La bebo kaj Helen estas fratinoj.",
+					"John kaj Helen estas frato kaj fratino.",
+					"Sinjoro Smith estas la edzo de Sinjorino Smith.",
+					"Sinjorino Smith estas la edzino de Sinjoro Smith.",
+					"Kiu estas Sinjoro Smith?",
+					"Li estas la edzo de Sinjorino Smith kaj la patro de la tri (3) infanoj.",
+					"Kiu estas Sinjorino Smith?",
+					"Ŝi estas la edzino de Sinjoro Smith kaj la patrino de la tri (3) infanoj."
+				],
+				"aside": [
+					[
+						"kiu?",
+						"li",
+						"ŝi",
+						"ili",
+						"Kiu estas John?",
+						"Li estas la filo.",
+						"Kiu estas Helen?",
+						"Ŝi estas la filino.",
+						"Kiuj estas Helen kaj la bebo.",
+						"Ili estas la fratinoj."
+
+					],
+					[
+						"(homi: [viro, virino, knabo, knabino, bebo])",
+						"(gepatroj: [parto, patrino])",
+						"(infanoj: [knabo, knabino, bebo])"
+					]
+				]
+			}
+		]
+	},
+	{
+		"id": 5,
+		"index_title": "Ĉapitro unu (1)",
+		"index_slug": "La unua Ĉapitro",
+		"page": [
+			{
+				"id": 13,
+				"content": [
+					"La tri infanoj estas la filo, la filino, kaj la beba filino de Sinjoro kaj Sinjorino Smith.",
+					"La patro, la patrino, la filo, la filino kaj la beba filino estas familio de kvin (5) homoj.",
+					"<br><br>",
+					"<h3 class='chapter-sub-title'>Ekzerco A</h3>",
+					"Sinjoro Smith estas ———.",
+					"Sinjorino Smith estas ———.",
+					"John estas ———.",
+					"Helen estas ———.",
+					"Helen kaj bebo estas ———.",
+					"John estas ———, kaj ankaŭ Helen kaj la bebo estas ———.",
+					"——— un knabo en la familio.",
+					"——— du knabinoj en la familio.",
+					"——— un patro en la familio.",
+					"——— tri infanoj en la familio.",
+					"John ——— la filo.",
+					"Sinjorino Smith ——— la patrino.",
+					"Sinjoro kaj Sinjorino Smith ——— la gepatroj.",
+					"John, Helen, kaj la bebo ——— la infanoj.",
+					"Sinjoro Smith estas ——— parto de John.",
+					"Helen estas la filino ——— Sinjoro Smith.",
+					"John, Helen, kaj la bebo estas ——— infanoj ——— Sinjoro Smith.",
+					"<br><br>",
+					"La viro estas ——— Smith; li ——— la patro.",
+					"La knabo estas John; ——— estas la filo.",
+					"La virino estas ——— Smith; ——— estas la patrino.",
+					"La knabino estas Helen kaj la bebo; ——— estas la filinoj.",
+					"John estas la ——— de Helen.",
+					"Helen estas la ——— de John.",
+					"John kaj Helen estas ——— kaj ———."
+				],
+				"aside": [
+					[
+						"<h3 class='chapter-sub-title'>Vortoj</h3>",
+						"viro",
+						"virino",
+						"Sinjoro",
+						"Sinjorino",
+						"knabo",
+						"knabino",
+						"bebo",
+						"homo",
+						"infano",
+						"infanoj",
+						"patro",
+						"patrino",
+						"filo",
+						"filino",
+						"frato",
+						"fratino"
+					]
+				]
+			}
+		]
+	},
+	{
+		"id": 6,
+		"index_title": "Ĉapitro unu (1)",
+		"index_slug": "La unua Ĉapitro",
+		"page": [
+			{
+				"id": 14,
+				"content": [
+					"Sinjoro Smith estas la ——— de Sinjorino Smith.",
+					"Sinjorino Smith estas la ——— de Sinjoro Smith.",
+					"<br><br>",
+					"Estas kvin ——— en la familio.",
+					"La kvin ——— en la familio estas la ———, la ———, la ———, la ———, kaj la ———.",
+					"La ——— estas John; ——— ——— la filo.",
+					"——— viro estas Sinjoro Smith; Li estas ———.",
+					"——— virino estas Sinjorino Smith; ŝi estas la ———.",
+					"——— knabinoj estas Helen kaj la bebo; ili estas la ———.",
+					"——— patro kaj ——— patrino estas Sinjoro kaj Sinjorino Smith; ili estas ——— gepatroj de la infanoj.",
+					"<br><br>",
+					"——— estas Sinjoro Smith?",
+					"Li estas la patro ——— ——— infanoj.",
+					"——— da infanoj estas en la familio?",
+					"Estas ——— infanoj en la familio.",
+					"Kiom ——— knaboj estas en la familio?",
+					"Estas ——— knabo en la famlio.",
+					"——— ——— knabinoj estas en la familio?",
+					"Estas ——— knabinoj en la famlio.",
+					"——— estas la tri infanoj en la familio?",
+					"La ——— infanoj estas John, Helen, kaj la bebo.",
+					"——— estas la filo?",
+					"La ——— estas John.",
+					"——— estas la filinoj?",
+					"——— filinoj ——— Helen kaj la bebo.",
+					"——— ——— homoj ——— en la familio.",
+					"Estas kvin ——— en la familio.",
+					"——— estas la ——— homoj en la familio?",
+					"——— estas ——— patro, ——— patrino, ——— filo, kaj ——— du filinoj.",
+					"<br><br>",
+					"<h3 class='chapter-sub-title'>Ekzerco B</h3>",
+					"Kiu estas la viro?",
+					"———...",
+					"Kiu estas la virino?",
+					"———...",
+					"Kiu estas la knabo?",
+					"———...",
+					"Kiuj estas du knabinoj?",
+					"———...",
+					"Kiuj estas la du gepatroj de John, Helen, kaj la bebo?",
+					"———...",
+					"Kiom da homoj estas en la familio?",
+					"———..."
+				],
+				"aside": [
+					[
+						"gepatroj",
+						"familio",
+						"edzino",
+						"edzo",
+						"unu",
+						"du",
+						"tri",
+						"la",
+						"estas",
+						"de",
+						"li",
+						"ŝi",
+						"ili",
+						"kaj",
+						"ankaŭ",
+						"kvin",
+						"en",
+						"kiom da?",
+						"kiu?",
+						"ekzerco",
+						"vorto"
+					]
+				]
+			}
+		]
+	},
+	{
+		"id": 7,
+		"index_title": "Ĉapitro unu (1)",
+		"index_slug": "La unua Ĉapitro",
+		"page": [
+			{
+				"id": 15,
+				"content": [
+					"Kiuj estas la kvin homoj",
+					"———...",
+					"Kiom da infanoj estas en la familio?",
+					"———...",
+					"Kiuj ili estas?",
+					"———...",
+					"Kiom da infanoj estas en la familio?",
+					"———...",
+					"Kiuj ili estas?",
+					"———...",
+					"Kiom da knabinoj estas en la familio?",
+					"———...",
+					"Kiuj ili estas?",
+					"———...",
+					"Kiom da knaboj estas en la familio?",
+					"———...",
+					"Kiu estas Helen?",
+					"———...",
+					"Kiu estas Sinjorino Smith?",
+					"———...",
+					"Kiu estas Sinjoro Smith?",					
+					"———..."
+				],
+				"aside": [
+					[]
+				]
+			}
+		]
+	}
+]

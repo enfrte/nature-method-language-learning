@@ -30,7 +30,7 @@
 
 <div 
 	x-data="fetchChapters()"
-	x-init="fetch('lang/lfn/chapter-data.json?20220113')
+	x-init="fetch('lang/eo/chapter-data.json?20220116')
 		.then(response => response.json())
 		.then(fetchData => data = fetchData)
 		.then(log => console.log(log))">
@@ -51,7 +51,7 @@
 								</template>
 							</div>
 						</div>
-						<p class="page-number"><span x-text="global_vocab.page.lfn"></span> <span x-text="page.id"></span></p>
+						<p class="page-number"><span x-text="global_vocab.page.eo"></span> <span x-text="page.id"></span></p>
 					</div>
 					<aside>
 						<template x-for="aside in page.aside">
@@ -74,7 +74,7 @@
 	function fetchChapters() {
 		return {
 			data: [],
-			global_vocab: { page: {fi: "Sivu", io: "Pagino", lfn: "Paje"} }
+			global_vocab: { page: {fi: "Sivu", io: "Pagino", lfn: "Paje", eo: 'paĝo' } }
 		}
 	}
 </script>
