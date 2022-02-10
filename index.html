@@ -3,7 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="description" content="Language learning demos">
-	<meta name="keywords" content="Language by the Nature Method, Ido, Finnish, elefen, Lingua Franca Nova">
+	<meta name="keywords" content="Language by the Nature Method, Interlingue, Occidental, Ido, Finnish, elefen, Lingua Franca Nova">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<script defer src="js/alpine-js-3x.js"></script>
@@ -11,26 +11,28 @@
 	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 	<link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">
 	<link rel="stylesheet" href="style.css">
-	<title>ido</title>
+	<title>Language by the Nature Method</title>
 </head>
 <body>
 
 <header>
     <hgroup>
-        <h1>ido</h1>
+        <!--<h1>Language by the Nature Method</h1>-->
         <a href="https://2038.host/"><h2>This site will self destruct in 2038</h2></a>
     </hgroup>
 </header>
 
+<!--
 <nav>
 	<ul>
 		<li><a href="/demos.html">Demos</a></li>
 	</ul>
 </nav>
+-->
 
 <div 
 	x-data="fetchChapters()"
-	x-init="fetch('lang/eo/chapter-data.json?20220116')
+	x-init="fetch('lang/ie/chapter-data.json?20220210')
 		.then(response => response.json())
 		.then(fetchData => data = fetchData)
 		.then(log => console.log(log))">
@@ -51,7 +53,7 @@
 								</template>
 							</div>
 						</div>
-						<p class="page-number"><span x-text="global_vocab.page.eo"></span> <span x-text="page.id"></span></p>
+						<p class="page-number"><span x-text="global_vocab.page.ie"></span> <span x-text="page.id"></span></p>
 					</div>
 					<aside>
 						<template x-for="aside in page.aside">
@@ -74,7 +76,7 @@
 	function fetchChapters() {
 		return {
 			data: [],
-			global_vocab: { page: {fi: "Sivu", io: "Pagino", lfn: "Paje", eo: 'paĝo' } }
+			global_vocab: { page: {fi: "Sivu", io: "Pagino", lfn: "Paje", eo: 'paĝo', ie: 'págine' } }
 		}
 	}
 </script>

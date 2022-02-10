@@ -1,0 +1,351 @@
+[
+	{
+		"id": 1,
+		"index_title": "Capitul un (1)",
+		"index_slug": "Unesim capitul",
+		"title": "familie",
+		"page": [
+			{
+				"id": 9,
+				"content": [
+					"<image src='lang/ie/img/c_01_p_009_n_1.png'/>",
+					"Senior Smith es un mann.",
+					"Seniora Smith es un fémina.",
+					"John es un púer.",
+					"Helen es un puella.",
+					"Li bebé es anc un puella.",
+					"Helen e li bebé es puellas.",
+					"Senior Smith es li patre.",
+					"Seniora Smith es li matre.",
+					"John es un infante.",
+					"Helen es un infante.",
+					"Li bebé es un infante.",
+					"John, Helen, e li bebé es infantes."
+				],
+				"aside": [
+					[
+						"es", 
+						"John es un púer.",
+						"Helen e li bebé es puellas.",
+						"un (1) puella",
+						"du (2) puellas",
+						"un (1) infante",
+						"du (2) infantes",
+						"Helen es un puella.",
+						"Helen e li bebé es puellas."
+					]
+				]
+			}
+		]
+	},
+	{
+		"id": 2,
+		"index_title": "Capitul un (1)",
+		"index_slug": "Unesim capitul",
+		"page": [
+			{
+				"id": 10,
+				"content": [
+					"Senior Smith es li patre de John.",
+					"Senior Smith es li patre de Helen.",
+					"Senior Smith es li patre del bebé.",
+					"Senior Smith es li patre del infantes.",
+					"Seniora Smith es li matre de John, Helen e li bebé.",
+					"Senior e Seniora Smith es li genitores del infantes.",
+					"John es li filio de Senior e Seniora Smith.",
+					"Senior e Seniora Smith es li genitores de John.",
+					"Helen es li filia de Senior e Seniora Smith.",
+					"Senior e Seniora Smith es li genitores de Helen.",
+					"Li bebé es anc de filia de Senior e Seniora Smith.",
+					"Senior e Seniora Smith es li genitores del bebé.",
+					"Senior Smith, Seniora Smith, John, Helen e li bebé es un familie.",
+					"Hay quin (5) persones in li familie.",
+					"Senior Smith es un person.",
+					"Seniora Smith es un person."
+				],
+				"aside": [
+					[
+						"<image src='lang/ie/img/c_01_p_010_n_1.png'/>"
+					],
+					[
+						"un",
+						"li",
+						"de",
+						"John es un púer.",
+						"Li púer es John.",
+						"Helen e bebé es puellas.",
+						"Li puellas es Helen e li bebé.",
+						"Li patre del infantes."
+					]
+				]
+			}
+		]
+	},
+	{
+		"id": 3,
+		"index_title": "Capitul un (1)",
+		"index_slug": "Unesim capitul",
+		"page": [
+			{
+				"id": 11,
+				"content": [
+					"John es un person.",
+					"Helen es un person, e li bebé es anc un person.",
+					"Quant persones existe in li familie?",
+					"Hay quin persones in li familie.",
+					"Qui es li quin persones in li familie?",
+					"Ili es li patre, matre, filio, filia, bebé filia.",
+					"Quant infantes existe in li familie?",
+					"Hay tri infantes in li familie.",
+					"Qui es li tri infantes in li familie?",
+					"Ili es li filio, filia e li bebé filia.",
+					"Quant puellas existe in li familie?",
+					"Hay du puellas in li familie.",
+					"Qui es li du puellas in li familie?",
+					"Ili es li filia e li bebé filia.",
+					"Quant púeres existe in li familie?",
+					"Hay un púer in li familie."
+				],
+				"aside": [
+					[
+						"Quant?",
+						"Quant puellas existe in li familie?"
+					],
+					[
+						"hay",
+						"Hay un púer in li familie.",
+						"Hay du puellas in li familie."
+					]
+				]
+			}
+		]
+	},
+	{
+		"id": 4,
+		"index_title": "Capitul un (1)",
+		"index_slug": "Unesim capitul",
+		"page": [
+			{
+				"id": 12,
+				"content": [
+					"Qui es li púer?",
+					"Li púer es John.",
+					"Il es li filio de senior Smith.",
+					"Li puella es Helen.",
+					"Ella es li filia de senior Smith.",
+					"Li mann es senior Smith.",
+					"Il es li patre.",
+					"Li fémina es seniora Smith.",
+					"Ella es li matre.",
+					"Li mann e fémina es senior e seniora Smith.",
+					"Ili es li genitores.",
+					"John es li fratre de Helen.",
+					"Helen es li sestra de John.",
+					"Li bebé es li sestra de John e Helen.",
+					"Li bebé e Helen es sestras.",
+					"John e Helen es fratre e sestra.",
+					"Senior Smith es li marito de seniora Smith.",
+					"Seniora Smith es li marita de senior Smith.",
+					"Qui es senior Smith?",
+					"Il es li marito de seniora Smith e li patre del tri infantes.",
+					"Qui es seniora Smith?",
+					"Ella es li marita de senior Smith e li matre del tri infantes."					
+				],
+				"aside": [
+					[
+						"qui?",
+						"ella",
+						"ili",
+						"Qui es John?",
+						"Il es li filio.",
+						"Qui es Helen?",
+						"Ella es li filia",
+						"Qui es Helen e li bebé?",
+						"Ili es li filias."
+					],
+					[
+						"(persones: [mann, fémina, púer, puella, bebé])",
+						"(genitores: [patre, matre])",
+						"(infantes: [púer, puella, bebé])"
+					]
+				]
+			}
+		]
+	},
+	{
+		"id": 5,
+		"index_title": "Capitul un (1)",
+		"index_slug": "Unesim capitul",
+		"page": [
+			{
+				"id": 13,
+				"content": [
+					"Li tri infantes es li filio, filia e li bebé filia de seniorn e senioran Smith.",
+					"Li patre, matre, filio, filia e li bebé filia es un familie de quin persones.",
+					"<h3 class='chapter-sub-title'>Practica A</h3>",
+					"Senior Smith es un ———.",
+					"Seniora Smith es un ———.",
+					"John es un ———.",
+					"Helen es un ———.",
+					"Helen e li bebé es ———.",
+					"John es un ———, e Helen e li bebé es anc ———.",
+					"——— un púer in li familie.",
+					"——— du puellas in la familie.",
+					"——— un patre in li familie.",
+					"——— tri infantes in li familie.",
+					"John ——— li filio.",
+					"Seniora Smith ——— li matre.",
+					"Senior e seniora Smith ——— li genitores.",
+					"John, Helen e li bebé ——— li infantes.",
+					"Senior Smith es ——— patre de John.",
+					"Helen es li filia ——— senior Smith.",
+					"John, Helen e li bebé es ——— infantes de senior Smith.",
+					"<br><br>",
+					"Li mann es ——— Smith; il ——— li patre.",
+					"Li púer es John; ——— es li púer.",
+					"Li fémina es ——— Smith; ——— es li matre.",
+					"Li puellas es Helen e bebé; ——— es li filias.",
+					"John es li ——— de Helen.",
+					"Helen es li ——— de John.",
+					"John e Helen es ——— e ———."
+
+				],
+				"aside": [
+					[
+						"<h3 class='chapter-sub-title'>Paroles</h3>",
+						"mann",
+						"fémina",
+						"senior",
+						"seniora",
+						"púer",
+						"puella",
+						"bebé",
+						"person",
+						"infante",
+						"infantes",
+						"patre",
+						"matre",
+						"filia",
+						"filio",
+						"fratre",
+						"sestra"
+					]
+				]
+			}
+		]
+	},
+	{
+		"id": 6,
+		"index_title": "Capitul un (1)",
+		"index_slug": "Unesim capitul",
+		"page": [
+			{
+				"id": 14,
+				"content": [
+					"Senior Smith is li ——— de seniora Smith.",
+					"Seniora Smith es li ——— de senior Smith.",
+					"<br><br>",
+					"Hay quin ——— in li familie.",
+					"Li quin ——— in li familie es li ———, li ———, li ———, li ———, e li ———.",
+					"——— púer es John; ——— ——— li filio.",
+					"——— mann es senior Smith; il es li ———.",
+					"——— fémina es seniora Smith; ella es la ———.",
+					"——— puellas es Helen e li bébe; ili es li .",
+					"——— patre e ——— matre es senior e seniora Smith; ili es ——— genitores del infantes.",
+					"<br><br>",
+					"——— es senior Smith?",
+					"Il es li patre ——— infantes.",
+					"——— infantes existe in li familie?",
+					"Hay ——— infantes in li familia.",
+					"——— púeres existe in li familie?",
+					"Hay ——— púer in li familie.",
+					"——— puellas existe in li familie?",
+					"Hay ——— puellas in li familie.",
+					"——— es li tri infantes in li familie?",
+					"Li ——— infantes es John, Helen e li bébe.",
+					"——— es li filio?",
+					"Li ——— es John.",
+					"——— es li filias?",
+					"——— filias ——— Helen e li bébe.",
+					"——— persones ——— in la familie?",
+					"Hay quin ——— in li familie.",
+					"——— es li ——— persones in li familie?",
+					"——— es ——— patre, ——— matre, ——— filio, e ——— du filia.",
+					"<br><br>",
+					"<h3 class='chapter-sub-title'>Practica B</h3>",
+					"Qui es li mann?",
+					"———...",
+					"Qui es li fémina?",
+					"———...",
+					"Qui es li púer?",
+					"———...",
+					"Qui es li du puella?",
+					"———...",
+					"Qui es li genitores de John, Helen, e li bébe?",
+					"———...",
+					"Quant persones existe in li familie?"
+				],
+				"aside": [
+					[
+						"genitores",
+						"familie",
+						"marita",
+						"marito",
+						"un",
+						"du",
+						"tri",
+						"un",
+						"li",
+						"es",
+						"de",
+						"hay",
+						"il",
+						"elle",
+						"ili",
+						"e",
+						"anc",
+						"quin",
+						"in",
+						"quant",
+						"qui",
+						"practica",
+						"parol"
+					]
+				]
+			}
+		]
+	},
+	{
+		"id": 7,
+		"index_title": "Capitul un (1)",
+		"index_slug": "Unesim capitul",
+		"page": [
+			{
+				"id": 15,
+				"content": [
+					"Qui es li quin persones?",
+					"———...",
+					"Quant infantes existe in li familie?",
+					"———...",
+					"Qui ili es?",
+					"———...",
+					"Quant puellas existe in li familie?",
+					"———...",
+					"Qui ili es?",
+					"———...",
+					"Quant púeres existe in li familie?",
+					"———...",
+					"Qui es Helen?",
+					"———...",
+					"Qui es seniora Smith?",
+					"———...",
+					"Qui es senior Smith?",
+					"———..."
+				],
+				"aside": [
+					[]
+				]
+			}
+		]
+	}
+]

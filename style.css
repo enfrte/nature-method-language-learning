@@ -5,7 +5,7 @@
 }
 
 body {
-	background-color: whitesmoke;
+	background-color: #123;
 }
 
 h1, h2, h3, p, span, nav {
@@ -17,7 +17,7 @@ hgroup {
 }
 
 hgroup h1, hgroup h2 {
-	color: var(--border-color);
+	color: whitesmoke;
 	text-align: center;
 }
 
@@ -42,16 +42,16 @@ nav > ul {
 }
 
 nav a {
-	text-decoration-color: var(--border-color);
+	text-decoration-color: whitesmoke;
 	text-decoration-thickness: .125em;
 	text-underline-offset: 1.5px;
-	color: var(--border-color);
+	color: whitesmoke;
 }
 
 section {
 	max-width: 800px;
 	margin: auto;
-	background-color: white;
+	background-color: whitesmoke;
 }
 
 .page-header {
