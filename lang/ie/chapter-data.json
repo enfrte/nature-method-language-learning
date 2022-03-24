@@ -346,5 +346,309 @@
 				]
 			}
 		]
+	},
+	{
+		"id": 8,
+		"index_title": "Capitul du (2)",
+		"index_slug": "Duesim capitul",
+		"title": "Li annu",
+		"page": [
+			{
+				"id": 16,
+				"content": [
+					"Januar es un mensu.",
+					"Februar es un mensu.",
+					"Hay decidu (12) mensus, un (1), du (2), tri (3), quar (4), quin (5), six (6), sett (7), ott (8), nin (9), deci (10), deciun (11), decidu (12).",
+					"Januar es li unesim (1-im) mensu.",
+					"Februar es li duesim (2-im) mensu.",
+					"Marte es li triesim (3-im) mensu.",
+					"April es li quaresim (4-im) mensu.",
+					"May es li quinesim (5-im) mensu.",
+					"Junio es li sixesim (6-im) mensu.",
+					"Julí es li settesim (7-im) mensu.",
+					"August es li ottesim (8-im) mensu.",
+					"Septembre es li ninesim (9-im) mensu.",
+					"Octobre es li deciesim (10-im) mensu.",
+					"Novembre es li deciunesim (11-im) mensu.",
+					"Decembre es li deciduesim (12-im) mensu."
+				],
+				"aside": [
+					[
+						"Februar es un mensu.", 
+						"Hay decidu mensus."
+					],
+					[
+						"un - unesim",
+						"du - duesim",
+						"tri - triesim",
+						"quar - quaresim",
+						"quin - quinesim",
+						"six - sixesim",
+						"sett - settesim",
+						"ott - ottesim",
+						"nin - ninesim",
+						"deci - deciesim",
+						"deciun - deciunesim",
+						"decidu - deciduesim",
+						"decitri - decitriesim",
+						"deciquar - deciquaresim"
+					]
+				]
+			}
+		]
+	},
+	{
+		"id": 9,
+		"index_title": "Capitul du (2)",
+		"index_slug": "Duesim capitul",
+		"page": [
+			{
+				"id": 17,
+				"content": [
+					"Januar e februar es mensus.",
+					"Hay decidu mensus in un annu.",
+					"Januar es li unesim mensu del annu.",
+					"Decembre es li final mensu del annu.",
+					"Un annu have decidu mensus.",
+					"Un mensu have quar semanes.",
+					"Tri mensus have decitri (13) semanes.",
+					"Un semane have sett dies.",
+					"Du semanes have deciquar (14) dies.",
+					"Quant mensus existe in un annu?",
+					"Hay decidu mensus in un annu.",
+					"Quant semanes existe in un mensu?",
+					"Hay quar semanes in un mansu.",
+					"Quant dies existe in un semane?",
+					"Hay sett dies in un semane.",
+					"Quo es li sett dies in un semane?",
+					"Li sett dies del semane es: Soledí, Lunedí, Mardí, Mercurdí, Jovedí, Venerdí, Saturdí.",
+					"Quo mensu es li unesim semane del annu?",
+					"Januar es li unesim mensu del annu."
+				],
+				"aside": [
+					[
+						"have", 
+						"Un semane have sett dies.",
+						"Du semanes have deciquar dies."
+					]				
+				]
+			}
+		]
+	},
+	{
+		"id": 10,
+		"index_title": "Capitul du (2)",
+		"index_slug": "Duesim capitul",
+		"page": [
+			{
+				"id": 18,
+				"content": [
+					"Quo es li final mensu del annu?",
+					"Decembre es li final mensu del annu.",
+					"Quo es li ensim die del semane?",
+					"Soledí es li unesim die del semane.",
+					"Quo es li final die de li semane?",
+					"Saturdí es li final die del semane.",
+					"Quel del dies del semane es li duesim (2-im)?",
+					"Lunedí es li duesim (2-im) die del semane.",
+					"Mardí es li triesim (3-im) die del semane.",
+					"Mercurdí es li quaresim (4-im) die del semane.",
+					"Jovedí es li quinesim (5-im) die del semane.",
+					"Venerdí es li sixesim (6-im) die del semane.",
+					"Saturdí es li settesim (7-im) die del semane.",
+					"Saturdí es anc li final die del semane.",
+					"Quel del mensus del annu es li deciduesim (12th)?"
+				],
+				"aside": [
+					[
+						"quo?", 
+						"quel del?",
+						"Quo es li unesim mensu del annu?",
+						"Quel del mensu del annu es li unesim?"
+					]				
+				]
+			}
+		]
+	},
+	{
+		"id": 11,
+		"index_title": "Capitul du (2)",
+		"index_slug": "Duesim capitul",
+		"page": [
+			{
+				"id": 19,
+				"content": [
+					"Decembre is li deciduesim (12-im) e anc li final mensu del annu.",
+					"Quo es li ninesim (9-im) mensu del annu?",
+					"Septembre es li ninesim (9-im) mensu.",
+					"Quo die es li ottesim (8-im) die del semane?",
+					"Ne hay ottesim (8-im) die del semane.",
+					"Hay sol sett (7) dies in un semane.",
+					"Quel del mensus del annu es li triesim (13th)?",
+					"Ne hay decitriesim mensu del annu.",
+					"Hay sol decidu mensus in un annu.",
+					"<h3 class='chapter-sub-title'>Practica A</h3>",
+					"Januar es un ———.",
+					"Marte e April es ———.",
+					"——— es li unesim mensu del annu.",
+					"Februar es li ——— semanu del annu.",
+					"Marte es li ——— mensu.",
+					"April es li ——— mensu.",
+					"Junio es li ——— mensu.",
+					"Julí es li ——— mensu.",
+					"August es li ——— mensu.",
+					"Septembre es li ——— mensu.",
+					"Octobre es li ——— mensu.",
+					"Novembre es li ——— mensu.",
+					"Decembre es li ——— e anc li ——— mensu del annu."
+				],
+				"aside": [
+					[
+						"ne",
+						"Ne hay ottesim die del semane."
+					],
+					[
+						"PARLOES:",
+						"quar",
+						"six",
+						"sett",
+						"ott",
+						"nin",
+						"deci",
+						"deciun",
+						"decidu",
+						"decitri",
+						"deciquar",
+						"unesim",
+						"duesim"
+					]
+				]
+			}
+		]
+	},
+	{
+		"id": 12,
+		"index_title": "Capitul du (2)",
+		"index_slug": "Duesim capitul",
+		"page": [
+			{
+				"id": 20,
+				"content": [
+					"Un ——— have decidu mensus.",
+					"Un ——— have sett dies.",
+					"Du ——— ——— deciquar dies.",
+					"Li sett dies del semane es ———...",
+					"——— hay un ottesim dia del semane.",
+					"——— hay un decitriesim mensu.",
+					"Un annu havas ——— decidu mensus.",
+					"Li decidu mensus del annu es ———...",
+					"Soledí es li ——— die del semane.",
+					"Saturdí es li ——— ——— del semane.",
+					"——— dies existe in un semane?",
+					"Hay ——— dies ——— un semane.",
+					"——— semanes existe in un mensu?",
+					"Un mensu have ——— semanes.",
+					"——— semanes existe in tri mensus?",
+					"Tri mensus ——— ——— semanes.",
+					"——— mensus existe in un annu?",
+					"Un annu ——— ——— mensus.",
+					"——— es li unesim mensu del annu?",
+					"——— es li unesim mensu del annu.",
+					"——— es li quaresim die del semane?",
+					"Li quaresim dia del semane es ———.",
+					"——— es li final mensu del annu?",
+					"Li final mensu del annu es ———.",
+					"——— del mensus del annu es li decitriesim?",
+					"Ne hay ——— decitriesim mensu; hay ——— decidu mensus ——— un annu.",
+					"<h3 class='chapter-sub-title'>Practica B</h3>",
+					"Quant mensus existe in un annu?",
+					"———...",
+					"Quant dies have un semane?",
+					"———...",
+					"Quant dies have du semanes?",
+					"———...",
+					"Quant semanes existe in un mensu?",
+					"———...",
+					"Quel del semanes del annu es li unesim?",
+					"———...",
+					"Quo es li duesim mensu?",
+					"———...",
+					"Quo es li triesim mensu?",
+					"———...",
+					"Quo es li quinesim die del semane?"					
+				],
+				"aside": [
+					[
+						"triesim",
+						"quaresim",
+						"quinesim",
+						"sixesim",
+						"settesim",
+						"ottesim",
+						"ninesim",
+						"deciesim",
+						"deciunesim",
+						"decisuesim",
+						"decitriesim",
+						"deciquaresim",
+						"mensu",
+						"annu",
+						"die",
+						"Januar",
+						"Februar",
+						"Marte",
+						"April",
+						"May",
+						"Junio",
+						"Julí",
+						"August",
+						"Septembre",
+						"Octobre",
+						"Novembre",
+						"Decembre",
+						"Soledí",
+						"Lunedí",
+						"Mardí",
+						"Mercurdí",
+						"Jovedí",
+						"Venerdí",
+						"Saturdí",
+						"final"
+					]
+				]
+			}
+		]
+	},
+	{
+		"id": 12,
+		"index_title": "Capitul du (2)",
+		"index_slug": "Duesim capitul",
+		"page": [
+			{
+				"id": 20,
+				"content": [
+					"Quel del dies del semane es li ottesim?",
+					"———...",
+					"Quo es li deciduesim mensu del annu?",
+					"———...",
+					"Quel del dies del semane es li final?",
+					"———...",
+					"Quo es li decitriesim mensu del annu?",
+					"———...",
+					"Quant semanes have tri mensus?",
+					"———..."
+				],
+				"aside": [
+					[
+						"hay",
+						"have",
+						"quo?",
+						"Quel del",
+						"ne",
+						"sol"
+					]
+				]
+			}
+		]
 	}
 ]
