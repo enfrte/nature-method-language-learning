@@ -4,6 +4,7 @@
 		"index_title": "Capitul un (1)",
 		"index_slug": "Unesim capitul",
 		"title": "Familie",
+		"chapter_index": 1,
 		"page": [
 			{
 				"id": 9,
@@ -352,6 +353,7 @@
 		"index_title": "Capitul du (2)",
 		"index_slug": "Duesim capitul",
 		"title": "Li annu",
+		"chapter_index": 2,
 		"page": [
 			{
 				"id": 16,

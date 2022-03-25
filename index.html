@@ -32,11 +32,9 @@
 
 <div 
 	x-data="fetchChapters()"
-	x-init="fetch('lang/ie/chapter-data.json?20220210')
+	x-init="fetch('lang/ie/chapter-data.json?20220325')
 		.then(response => response.json())
-		.then(fetchData => data = fetchData)
-		.then(log => console.log(log))">
-
+		.then(fetchData => data = fetchData)">
 
 	<template x-for="chapter in data" :key="chapter.id">
 		<section x-bind:id="`chapter_` + chapter.id">
@@ -46,7 +44,9 @@
 				<article>
 					<div class="article-main">
 						<div>
-							<h2 class="chapter-title" x-show="chapter.title" x-text="chapter.title"></h2>
+							<a x-bind:name="`#chapter` + chapter.chapter_index">
+								<h2 class="chapter-title" x-show="chapter.title" x-text="chapter.title"></h2>
+							</a>
 							<div class="article-content-container">
 								<template x-for="content in page.content">
 									<span class="article-span" x-html="content"></span>
