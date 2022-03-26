@@ -17,7 +17,7 @@
 
 <header>
     <hgroup>
-        <!--<h1>Language by the Nature Method</h1>-->
+        <h1>Interlingue-Occidental by the Nature Method</h1>
         <a href="https://2038.host/"><h2>This site will self destruct in 2038</h2></a>
     </hgroup>
 </header>
@@ -25,7 +25,8 @@
 <!--
 <nav>
 	<ul>
-		<li><a href="/demos.html">Demos</a></li>
+		<li><a href="#chapter1">Capitul 1</a></li>
+		<li><a href="#chapter2">Capitul 2</a></li>
 	</ul>
 </nav>
 -->
@@ -36,17 +37,17 @@
 		.then(response => response.json())
 		.then(fetchData => data = fetchData)">
 
-	<template x-for="chapter in data" :key="chapter.id">
-		<section x-bind:id="`chapter_` + chapter.id">
-			<h2 class="page-header" x-text="chapter.index_title"></h2>
+	<template x-for="section in data" :key="section.id">
+		<section x-bind:id="`section_` + section.id">
+			<h2 class="page-header" x-text="section.index_title"></h2>
 
-			<template x-for="page in chapter.page">
+			<template x-for="page in section.page">
 				<article>
 					<div class="article-main">
 						<div>
-							<a x-show="chapter.chapter_index" x-bind:name="`chapter` + chapter.chapter_index">
-								<h2 class="chapter-title" x-show="chapter.title" x-text="chapter.title"></h2>
-							</a>
+							<div x-show="section.chapter_index" x-bind:id="`chapter` + section.chapter_index">
+								<h2 class="chapter-title" x-show="section.title" x-text="section.title"></h2>
+							</div>
 							<div class="article-content-container">
 								<template x-for="content in page.content">
 									<span class="article-span" x-html="content"></span>
