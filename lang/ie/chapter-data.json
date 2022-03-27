@@ -424,7 +424,7 @@
 					"Hay sett dies in un semane.",
 					"Quo es li sett dies in un semane?",
 					"Li sett dies del semane es: Soledí, Lunedí, Mardí, Mercurdí, Jovedí, Venerdí, Saturdí.",
-					"Quo mensu es li unesim mensu del annu?",
+					"Quel mensu es li unesim mensu del annu?",
 					"Januar es li unesim mensu del annu."
 				],
 				"aside": [
@@ -447,7 +447,7 @@
 				"content": [
 					"Quo es li final mensu del annu?",
 					"Decembre es li final mensu del annu.",
-					"Quo es li ensim die del semane?",
+					"Quo es li unesim die del semane?",
 					"Soledí es li unesim die del semane.",
 					"Quo es li final die del semane?",
 					"Saturdí es li final die del semane.",
@@ -483,12 +483,12 @@
 					"Decembre is li deciduesim (12-im) e anc li final mensu del annu.",
 					"Quo es li ninesim (9-im) mensu del annu?",
 					"Septembre es li ninesim (9-im) mensu.",
-					"Quo die es li ottesim (8-im) die del semane?",
+					"Quel die es li ottesim (8-im) die del semane?",
 					"Ne hay ottesim (8-im) die del semane.",
-					"Hay sol sett (7) dies in un semane.",
+					"Hay solmen sett (7) dies in un semane.",
 					"Quel del mensus del annu es li triesim (13th)?",
 					"Ne hay decitriesim mensu del annu.",
-					"Hay sol decidu mensus in un annu.",
+					"Hay solmen decidu mensus in un annu.",
 					"<h3 class='chapter-sub-title'>Practica A</h3>",
 					"Januar es un ———.",
 					"Marte e April es ———.",
@@ -647,7 +647,7 @@
 						"quo?",
 						"Quel del",
 						"ne",
-						"sol"
+						"solmen"
 					]
 				]
 			}
