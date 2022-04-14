@@ -257,7 +257,7 @@
 					"——— es senior Smith?",
 					"Il es li patre ——— infantes.",
 					"——— infantes existe in li familie?",
-					"Hay ——— infantes in li familia.",
+					"Hay ——— infantes in li familie.",
 					"——— púeres existe in li familie?",
 					"Hay ——— púer in li familie.",
 					"——— puellas existe in li familie?",
@@ -652,5 +652,358 @@
 				]
 			}
 		]
+	},
+	{
+		"id": 14,
+		"index_title": "Capitul un (3)",
+		"index_slug": "Triesim capitul",
+		"title": "Nómines",
+		"chapter_index": 3,
+		"page": [
+			{
+				"id": 22,
+				"content": [
+					"Li nómine del púer es John.",
+					"Li nómine del puella es Helen.",
+					"Li nómine del patre es Senior Smith.",
+					"Li nómine del matre es Seniora Smith.",
+					"Quo es li nómine del puella?",
+					"It es Helen.",
+					"Quo es li nómine del bebé puella?",
+					"It es Alice.",
+					"Quo es li nómine del púer?",
+					"It es John.",
+					"Quo es li nómines del genitores?",
+					"Ili es senior e seniora Smith.",
+					"Quo es li nómine del familie?",
+					"It es Smith.",
+					"Senior Smith have un marita.",
+					"Su nómine es seniora Smith.",
+					"Senior Smith have un filia.",
+					"Su nómine es Helen.",
+					"Senior Smith have un filio.",
+					"Su nómine es John.",
+					"Have senior Smith un marita?",
+					"Yes, li have un marita.",
+					"Quo es li nómine de su marita?"
+				],
+				"aside": [
+					[
+						"quo?",
+						"it",
+						"ili",
+						"Quo es li nómine del púer?",
+						"It es John.",
+						"Quo es li nómines del puellas?",
+						"Ili es Helen e Alice."
+					]
+				]
+			}
+		]
+	},
+	{
+		"id": 15,
+		"index_title": "Capitul un (3)",
+		"index_slug": "Triesim capitul",
+		"page": [
+			{
+				"id": 23,
+				"content": [
+					"Su nómine es seniora Smith.",
+					"Have senior Smith un filio?",
+					"Yes, li have un filio.",
+					"Quo es li nómine de su filio?",
+					"Su nómine es John.",
+					"Senior Smith have un filio e du filias.",
+					"Quo es li nómines del tri enfantes?",
+					"Lor nómines es John, Helen e Alice.",
+					"John es decidu annus old.",
+					"Quant old es John?",
+					"Il es decidu annus old.",
+					"Helen es deci annus old.",
+					"Quant old es Helen?",
+					"Ella es deci annus.",
+					"Li bébe es six mensus old.",
+					"Quant old es li bébe?",
+					"Ella es six mensus old.",
+					"John es decidu annus old, e Helen es deci annus old.",
+					"John es du annus plu old quam Helen.",
+					"Esque John es deciquar annus old?",
+					"No, il ne es deciquar (14) annus old; il es solmen decidu annus old.",
+					"Esque Helen es decitri (13) annus old?"
+				],
+				"aside": [
+					[
+						"su",
+						"lor",
+						"Li nómine del marito es senior Smith.",
+						"Su nómine es senior Smith.",
+						"Li nómine del marita es seniora Smith.",
+						"Su nómine es seniora Smith.",
+						"Li nómines del enfantes es John, Helen e Alice.",
+						"Lor nómines es John, Helen e Alice."
+					]
+				]
+			}
+		]
+	},
+	{
+		"id": 16,
+		"index_title": "Capitul un (3)",
+		"index_slug": "Triesim capitul",
+		"page": [
+			{
+				"id": 24,
+				"content": [
+					"No, ella ne es decitri annus old; ella es solmen deci annus old.",
+					"Esque Helen es plu old quam John?",
+					"No, ella ne es plu old quam John; John es du annus plu old quam la.",
+					"John ne es deciquar, ma solmen decidu annus old.",
+					"Helen ne es decitri, ma solmen deci annus old.",
+					"John ne es un puella, ma Helen es un puella.",
+					"Helen ne es un púer, ma John es un púer.",
+					"Li bebé ne es old; ella es yun.",
+					"Ella es solmen six mensus old.",
+					"Senior Smith es un yun mann; il es triantsix (36) annus old.",
+					"Seniora Smith es un yun fémina; ella es triantdu (32) annus old.",
+					"Senior Smith have un patre.",
+					"Li patre de Senior Smith ne es yun; il es old.",
+					"Il es sixantdu (62) annus old.",
+					"John, Helen, e li bebé es yun; ili es enfantes."
+				],
+				"aside": [
+					[]
+				]
+			}
+		]
+	},
+	{
+		"id": 17,
+		"index_title": "Capitul un (3)",
+		"index_slug": "Triesim capitul",
+		"page": [
+			{
+				"id": 25,
+				"content": [
+					"Senior e seniora Smith es anc yun, ma ili es plu old quam li enfantes.",
+					"Li enfantes es plu yun quam lor genitores.",
+					"Es John plu yun quam Helen?",
+					"No, il ne es plu yun quam Helen; il es du annus plu old quam Helen.",
+					"Esque li bebé es plu yun quam Helen?",
+					"Yes, ella es li plu yun del enfantes.",
+					"Quel del persones in li familie es li plu old?",
+					"Li patre de senior Smith es li plu old.",
+					"Quel del tri enfantes es li plu yun?",
+					"Li bebé es li plu yun.",
+					"Have John tri sestras?",
+					"No, il have solmen du sestras, ne tri.",
+					"Have senior e seniora Smith quar enfantes?",
+					"No, ili ne have quar enfantes, ma solmen tri.",
+					"Have senior and seniora Smith du filios?",
+					"No, ili have solmen un filio, ma du filias."					
+				],
+				"aside": [
+					[
+						"yun",
+						"plu yun quam",
+						"plu yun",
+						"Helen es yun.",
+						"Ella es plu yun quam John.",
+						"Li bebé es li plu yun del tri enfantes.",
+						"old",
+						"plu old quam",
+						"plu old",
+						"Quant old es John?",
+						"John es plu old quam Helen.",
+						"Li patre de senior Smith es li plu old person in li familie.",
+						"have",
+						"John have du sestras.",
+						"Senior e seniora Smith have tri enfantes."
+					]
+				]
+			}
+		]
+	},
+	{
+		"id": 18,
+		"index_title": "Capitul un (3)",
+		"index_slug": "Triesim capitul",
+		"page": [
+			{
+				"id": 26,
+				"content": [
+					"Quo es li nómine del familie?",
+					"Li nómine del familie es Smith.",
+					"Quo es Helen?",
+					"Helen es un puella.",
+					"Quel del enfantes es li púer?",
+					"John es li púer.",
+					"Quo die es it?",
+					"It es Soledí.",
+					"Quo es li unesim die del semane?",
+					"Soledí es li unesim die del semane.",
+					"Quo es li nómine del unesim mensu?",
+					"Li nómine del unesim mensu es Januar.",
+					"Quel del mensus es li duesim?",
+					"Februar es li duesim mensu.",
+					"<h3 class='chapter-sub-title'>Practica A</h3>",
+					"Li ——— del púer es John.",
+					"Li ——— del patre es ——— Smith.",
+					"Li ——— del matre es ——— Smith.",
+					"Senior Smith have un marita; ——— nómine es Seniora Smith.",
+					"Senior Smith have un filia; ——— nómine es Helen.",
+					"Senior Smith have un filio; ——— nómine es John.",
+					"John have un sestra; li nómine ——— sestra es Helen.",
+					"Senior e Seniora Smith have tri enfantes; ——— nómines es John, Helen, e Alice.",
+					"Senior e Seniora Smith have du filias; ——— nómines es Helen e Alice.",
+					"Helen es deci annus ———.",
+					"Senior Smith es triantsix annus ———.",
+					"John es du annus ——— old quam Helen.",
+					"Helen es nin annus e six mensus ——— old quam li bebé."		
+				],
+				"aside": [
+					[]
+				]
+			}
+		]
+	},
+	{
+		"id": 19,
+		"index_title": "Capitul un (3)",
+		"index_slug": "Triesim capitul",
+		"page": [
+			{
+				"id": 27,
+				"content": [
+					"Li patre de senior Smith is li ——— ——— person en li familie.",
+					"Senior Smith es plu old ——— seniora Smith.",
+					"Helen es plu old ——— li bebé.",
+					"John ne es deciquar ——— old; li es solmen decidu annus old.",
+					"Helen ——— es decitri annus old; ella es ——— deci annus old.",
+					"Senior Smith ——— es old, ma yun.",
+					"Seniora Smith ne es un mann, ——— un fémina.",
+					"John ——— es un puella, ——— Helen es un puella.",
+					"John ——— du sestras.",
+					"Helen e li bebé ——— un fratre.",
+					"Li enfantes ——— du genitores.",
+					"Senior e seniora Smith ——— tri enfantes.",
+					"Ili ——— only un filio, ma ili ——— du filias.",
+					"Senior Smith ——— un marita.",
+					"Helen ——— un bebé sestra.",
+					"Li bebé ——— un fratre e un sestre.",
+					"——— es li nómine del puella?",
+					"——— es Helen.",
+					"——— es li nómine del plu yun enfante?",
+					"——— es Alice.",
+					"——— del enfantes es li plu yun?",
+					"——— es li plu yun.",
+					"——— del persons in li familie es li plu old?",
+					"Li patre de senior Smith es li ——— ———.",
+					"——— es li nómines del genitores?",
+					"Li nómines del genitores ——— senior e seniora Smith.",
+					"——— del persones in li familie es li plu yun?",
+					"Li bebé es li ——— ——— en li familie.",
+					"——— die es it?",
+					"It es ———.",
+					"——— es li final die del semane?",
+					"——— es li final die del semane.",
+					"——— John es un puella?",
+					"———, il ——— es.",
+					"Esque Helen ——— ——— quam li bebé?",
+					"Yes, ella es ——— ——— ——— li bebé.",
+					"Esque li bebé es li ——— ——— del enfantes?",
+					"———, ella es ——— six semanes ———.",
+					"——— senior Smith es li marito de seniora Smith?",
+					"———, il es li ——— de seniora Smith.",
+					"<h3 class='chapter-sub-title'>Practica B</h3>",
+					"Quo es li nómine del bebé girl?",
+					"———.",
+					"Quel del enfantes es li púer?",
+					"———.",
+					"Quo die es it?",
+					"———.",
+					"Quo es li unesim die del semane?",
+					"———.",
+					"Quo es li nómine de li familie?"
+				],
+				"aside": [
+					[
+						"WORDS:",
+						"nómine",
+						"Quo?",
+						"it"
+					]
+				]
+			}
+		]
+	},
+	{
+		"id": 20,
+		"index_title": "Capitul un (3)",
+		"index_slug": "Triesim capitul",
+		"page": [
+			{
+				"id": 28,
+				"content": [
+					"Quel del persones en li familie es li plu old?",
+					"———...",
+					"Quel del enfantes es li plu yun?",
+					"———...",
+					"Quant old es ella?",
+					"———...",
+					"Quant old es Senior Smith?",
+					"———...",
+					"Quant old es Helen?",
+					"———...",
+					"Quant annus es John plu old quam Helen?",
+					"———...",
+					"Esque Helen es plu old quam li babé?",
+					"———...",
+					"Esque seniora Smith es plu old quam senior Smith?",
+					"———...",
+					"Esque John es old?",
+					"———...",
+					"Esque li patre de senior Smith es old?",
+					"———...",
+					"Esque li enfantes es yun?",
+					"———...",
+					"Esque li genitores es old?",
+					"———...",
+					"Have John tri sestras?",
+					"———...",
+					"Have li genitores tri enfantes?",
+					"———...",
+					"Have li puellas un fratre?",
+					"———...",
+					"Esque John e Helen es fratre e sestra?",
+					"———...",
+					"Have ili un sestre?",
+					"———...",
+					"Have senior e seniora Smith du filios?",
+					"———...",
+					"Quo es su nómine?",
+					"———...",
+					"Quel del enfantes es deci annus old?",
+					"———..."
+				],
+				"aside": [
+					[
+						"yes",
+						"no",
+						"su",
+						"lor",
+						"old",
+						"yun",
+						"quam",
+						"ne",
+						"ma",
+						"triantdu",
+						"triantsix",
+						"sixantdu"
+					]
+				]
+			}
+		]
 	}
+
 ]
