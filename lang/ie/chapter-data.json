@@ -924,7 +924,7 @@
 					"———.",
 					"Quo es li unesim die del semane?",
 					"———.",
-					"Quo es li nómine de li familie?"
+					"Quo es li nómine del familie?"
 				],
 				"aside": [
 					[
@@ -1015,7 +1015,7 @@
 			{
 				"id": 29,
 				"content": [
-					"Senior e seniora Smith e lor tri enfantes vive in anglia.",
+					"Senior e seniora Smith e lor tri enfantes vive in Anglia.",
 					"Ili vive in un dom.",
 					"Have lor dom un fenestre?",
 					"Yes, lor dom have mult fenestres.",
@@ -1024,17 +1024,18 @@
 					"Have lor dom un porta?",
 					"Yes, it have du portas.",
 					"It have anc un tegment.",
-					"Li tegment es li sómmite de li dom.",
+					"Li tegment es li sómmite del dom.",
 					"Quo es li sómmite del dom?",
 					"Li sómmite del dom es li tegment.",
 					"Li dom have quar mures.",
 					"Have li dom un quinesim mur?",
 					"Ne, it have solmen quar mures.",
 					"Li fenestres e li portas es in li mures.",
+					"<p></p>",
 					"U es London?",
-					"London es in anglia.",
+					"London es in Anglia.",
 					"U es Paris?",
-					"Paris es in francia.",
+					"Paris es in Francia.",
 					"U es Stockholm?"
 				],
 				"aside": [
@@ -1064,6 +1065,7 @@
 					"Moscva es in Russia.",
 					"U es Helsinki?",
 					"Helsinki es in Finland.",
+					"<p></p>",
 					"Anglia es un land.",
 					"Russia es un land.",
 					"Anglia e Russia es du landes.",
@@ -1075,6 +1077,7 @@
 					"London es un grand cité.",
 					"Anc hay mult domes in Köbenhavn.",
 					"Anc Köbenhavn es un grand cité, ma Köbenhavn ne es tam grand un cité quam London.",
+					"<p></p>",
 					"Helen es un grand puella, ma ella ne es tam grand quam John."					
 				],
 				"aside": [
@@ -1112,7 +1115,7 @@
 				"content": [
 					"Esque Bebé es plu grand quam Helen?",
 					"No, Bebé es minu grand quam Helen; ella es solmen un litt puella.",
-					"Esque John tam grand quam su patre?",
+					"Esque John es tam grand quam su patre?",
 					"No, John es minu grand quam su patre.",
 					"Esque Helen es tam grand quam su matre?",
 					"No, Helen es minu grand quam su matre.",
@@ -1167,7 +1170,7 @@
 					"Li Svedeses vive in Svedia.",
 					"Li Norvegeses vive in Norvegia.",
 					"Li Germaneses vive in Germania.",
-					"Li Franceseses vive in Francia.",
+					"Li Franceses vive in Francia.",
 					"Anglia es plu grand quam Dania, ma it es minu grand quam Francia.",
 					"Norvegia es plu grand quam Dania, ma it es minu grand quam Svedia.",
 					"Li dom de senior e seniora Smith ne es un grand dom; it es un litt dom.",
@@ -1176,7 +1179,7 @@
 					"Helen es plu litt quam su matre.",
 					"Hay mult domes in un grand cité.",
 					"Hay mult grand cités in un grand land.",
-					"Dania ne is un grand land; it es solmen un litt land."
+					"Dania ne es un grand land; it es solmen un litt land."
 				],
 				"aside": [
 					[
@@ -1235,7 +1238,7 @@
 					"Quel persones vive in Anglia?",
 					"Li Angleses vive in Anglia.",
 					"Quel persones vive in Francia?",
-					"Li Franceseses vive in Francia.",
+					"Li Franceses vive in Francia.",
 					"Quel persones vive in Russia?",
 					"Li Russeses vive in Russia.",
 					"Senior e seniora Smith have un filio.",
@@ -1332,7 +1335,7 @@
 						"sómmite",
 						"u?",
 						"Francia",
-						"Francesese",
+						"Franceses",
 						"Svedia",
 						"Svedeses",
 						"Germania",
@@ -1355,8 +1358,8 @@
 						"Berlin",
 						"Oslo",
 						"Helsinki",
-						"Copenhagen",
-						"Moscow"
+						"Köbenhavn",
+						"Moscva"
 					]
 				]
 			}
@@ -1397,7 +1400,7 @@
 					"———...",
 					"Esque Helen es plu litt quam John?",
 					"———...",
-					"Esque Helen plu grnad quam su matre?",
+					"Esque Helen plu grand quam su matre?",
 					"———...",
 					"Quo es púeres e puellas?",
 					"———...",
