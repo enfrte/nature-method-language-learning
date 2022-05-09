@@ -1004,6 +1004,436 @@
 				]
 			}
 		]
+	},
+	{
+		"id": 21,
+		"index_title": "Capitul quar (4)",
+		"index_slug": "Quaresim capitul",
+		"title": "LANDES E CITÉS",
+		"chapter_index": 4,
+		"page": [
+			{
+				"id": 29,
+				"content": [
+					"Senior e seniora Smith e lor tri enfantes vive in anglia.",
+					"Ili vive in un dom.",
+					"Have lor dom un fenestre?",
+					"Yes, lor dom have mult fenestres.",
+					"Quant fenestres have lor dom?",
+					"It have ott fenestres.",
+					"Have lor dom un porta?",
+					"Yes, it have du portas.",
+					"It have anc un tegment.",
+					"Li tegment es li sómmite de li dom.",
+					"Quo es li sómmite del dom?",
+					"Li sómmite del dom es li tegment.",
+					"Li dom have quar mures.",
+					"Have li dom un quinesim mur?",
+					"Ne, it have solmen quar mures.",
+					"Li fenestres e li portas es in li mures.",
+					"U es London?",
+					"London es in anglia.",
+					"U es Paris?",
+					"Paris es in francia.",
+					"U es Stockholm?"
+				],
+				"aside": [
+					[
+						
+					]
+				]
+			}
+		]
+	},
+	{
+		"id": 22,
+		"index_title": "Capitul quar (4)",
+		"index_slug": "Quaresim capitul",
+		"page": [
+			{
+				"id": 30,
+				"content": [
+					"Stockholm es in Svedia.",
+					"U es Berlin?",
+					"Berlin es in Germania.",
+					"U es Köbenhavn?",
+					"Köbenhavn es in Dania.",
+					"U es Oslo?",
+					"Oslo es in Norvegia.",
+					"U es Moscva?",
+					"Moscva es in Russia.",
+					"U es Helsinki?",
+					"Helsinki es in Finland.",
+					"Anglia es un land.",
+					"Russia es un land.",
+					"Anglia e Russia es du landes.",
+					"Senior e seniora Smith e lor enfantes vive en London.",
+					"London es un cité.",
+					"Anc Köbenhavn es un cité.",
+					"London e Köbenhavn es du cités.",
+					"Hay mult domes in London.",
+					"London es un grand cité.",
+					"Anc hay mult domes in Köbenhavn.",
+					"Anc Köbenhavn es un grand cité, ma Köbenhavn ne es tam grand un cité quam London.",
+					"Helen es un grand puella, ma ella ne es tam grand quam John."					
+				],
+				"aside": [
+					[
+						"un puella",
+						"du puellas",
+						"un púer",
+						"de púeres",
+						"un cité",
+						"du cités",
+						"un land",
+						"du landes"
+					],
+					[	
+						"Bebé = li bebé",
+						"Helen e Babé es sestras.",
+						"Helen e li bebé es sestras."
+					],
+					[
+						"tam ... quam",
+						"Senior Smith es quam grand quam su patre.",
+						"Babé es minu grand quam Helen."
+					]
+				]
+			}
+		]
+	},
+	{
+		"id": 23,
+		"index_title": "Capitul quar (4)",
+		"index_slug": "Quaresim capitul",
+		"page": [
+			{
+				"id": 31,
+				"content": [
+					"Esque Bebé es plu grand quam Helen?",
+					"No, Bebé es minu grand quam Helen; ella es solmen un litt puella.",
+					"Esque John tam grand quam su patre?",
+					"No, John es minu grand quam su patre.",
+					"Esque Helen es tam grand quam su matre?",
+					"No, Helen es minu grand quam su matre.",
+					"John es plu grand quam Helen, e seniora Smith es plu grand quam John.",
+					"Quel es li max grand del tri enfantes?",
+					"John es li max grand.",
+					"Quel is li max grand del cités in Europa?",
+					"London es li max grand cité in Europa.",
+					"Anglia es un land in Europa.",
+					"London es li max grand cité in Anglia.",
+					"Svedia es un land in Europa.",
+					"Stockholm es li max grand cité in Svedia.",
+					"Senior Smith es Anglesi.",
+					"Il vive in Anglia.",
+					"Seniora Smith es Anglesi.",
+					"Ella vive in Anglia.",
+					"Lor enfantes es Anglesi.",
+					"Ili vive in Anglia.",
+					"Li Anglesi vive in Anglia."					
+				],
+				"aside": [
+					[
+						"grand",
+						"plu grand",
+						"max grand",
+						"Helen es un grand puella.",
+						"John es plu grand quam Helen.",
+						"John es li max grand del enfantes."
+					],
+					[
+						"Quel ... del?",
+						"= quel del?",
+						"Quel es li max grand del tri enfantes?",
+						"= Quel del tri enfantes es li max grand?"
+					]
+					
+				]
+			}
+		]
+	},
+	{
+		"id": 24,
+		"index_title": "Capitul quar (4)",
+		"index_slug": "Quaresim capitul",
+		"page": [
+			{
+				"id": 32,
+				"content": [					
+					"Li Daneses vive in Dania.",
+					"Li Finlandeses vive in Finland.",
+					"Li Russeses vive en Russia.",
+					"Li Svedeses vive in Svedia.",
+					"Li Norvegeses vive in Norvegia.",
+					"Li Germaneses vive in Germania.",
+					"Li Franceseses vive in Francia.",
+					"Anglia es plu grand quam Dania, ma it es minu grand quam Francia.",
+					"Norvegia es plu grand quam Dania, ma it es minu grand quam Svedia.",
+					"Li dom de senior e seniora Smith ne es un grand dom; it es un litt dom.",
+					"Babé ne es un grand puella; ella es solmen un litt puella.",
+					"Helen es plu litt quam John, e John es plu litt quam su patre.",
+					"Helen es plu litt quam su matre.",
+					"Hay mult domes in un grand cité.",
+					"Hay mult grand cités in un grand land.",
+					"Dania ne is un grand land; it es solmen un litt land."
+				],
+				"aside": [
+					[
+						"vive",
+						"John vive in un dom.",
+						"John e Helen vive in un dom."
+					]			
+				]
+			}
+		]
+	},
+	{
+		"id": 25,
+		"index_title": "Capitul quar (4)",
+		"index_slug": "Quaresim capitul",
+		"page": [
+			{
+				"id": 33,
+				"content": [
+					"Ne hay mult cités in Dania.",
+					"Senior Smith es un mann; anc su patre es un mann.",
+					"Senior Smith e su patre es du mannes.",
+					"Seniora Smith es un fémina; anc su sestra es un fémina.",
+					"Seniora Smith e su sestra es du féminas.",
+					"Púeres e puellas es enfantes.",
+					"Mannes, féminas, e enfantes es persones.",
+					"Hay mult persones in Anglia.",
+					"Quant persones existe in Anglia?",
+					"Hay quarantquin (45) million persones in Anglia.",
+					"Quant persones existe in Finland?",
+					"Hay plu quam tri million persones in Finland.",
+					"Hay plu mult persones in Anglia quam in Dania.",
+					"Hay minu mult persones in Dania quam in Svedia.",
+					"Hay six million persones in Svedia.",
+					"Hay plu mult Svedeses quam Daneses."
+				],
+				"aside": [
+					[
+						"un mann [mann]",
+						"du mannes [mannes]",
+						"un fémina",
+						"du féminas"
+					]			
+				]
+			}
+		]
+	},
+	{
+		"id": 26,
+		"index_title": "Capitul quar (4)",
+		"index_slug": "Quaresim capitul",
+		"page": [
+			{
+				"id": 34,
+				"content": [
+					"Quel persones vive in Anglia?",
+					"Li Angleses vive in Anglia.",
+					"Quel persones vive in Francia?",
+					"Li Franceseses vive in Francia.",
+					"Quel persones vive in Russia?",
+					"Li Russeses vive in Russia.",
+					"Senior e seniora Smith have un filio.",
+					"Have ili plu quam un enfante?",
+					"Yes, ili have tri enfantes.",
+					"Ili have du puellas, ma solmen un puer.",
+					"Ili have plu mult puellas quam púeres.",
+					"Have John plu quam du sestras?",
+					"No, il have solmen du sestras.",
+					"Esque hay plu quam quar persones in li familie?",
+					"Yes, hay quin persones in li familie.",
+					"Quel plu mult persones existe in li familie altri quam li patre e li matre?",
+					"Hay li tri enfantes.",
+					
+					"<h3 class='chapter-sub-title'>Practica A</h3>",
+					
+					"Senior e seniora Smith e lor tri enfantes ——— in Anglia.",
+					"Ili ——— in un dom. Senior Smith ——— in Anglia."
+				],
+				"aside": [
+					[
+					
+					]
+				]
+			}
+		]
+	},
+	{
+		"id": 27,
+		"index_title": "Capitul quar (4)",
+		"index_slug": "Quaresim capitul",
+		"page": [
+			{
+				"id": 35,
+				"content": [
+					"Li ——— de senior e seniora Smith have ott fenestres.",
+					"Li ——— del dom es in li mures.",
+					"Li ——— have du portas.",
+					"Li du ——— del dom es in li ———.",
+					"Li dom have quar ———.",
+					"Li fenestres e li portas es in li ———.",
+					"Li ——— es in li sómmite del dom.",
+					"Li ——— del dom es li segment.",
+					"<p></p>",
+					"Anglia es un ———.",
+					"Anc Svedia es un ———.",
+					"London es un ———.",
+					"Anc Stockholm es un ———.",
+					"London e Stockholm es du ———.",
+					"Hay mult ——— in London.",
+					"London have ——— domes.",
+					"Dania es un land in ———.",
+					"Anc Russia es un land in ———.",
+					"Senior Smith e su patre es du ———.",
+					"Seniora Smith e su sestra es du ———.",
+					"Anc li matre de seniora Smith es un ———.",
+					"London es un ——— cité.",
+					"Anc Köbenhavn es un ——— city, ma Köbenhavn es minu grand un cité ——— London.",
+					"Helen es un grand puella, ma ella es ——— grand quam John.",
+					"<p></p>",
+					"Esque Baby es ——— grand ——— Helen?",
+					"No, Baby es ——— grand quam Helen.",
+					"Esque John es ——— grand ——— su patre?",
+					"No, John es ——— grand ——— su patre.",
+					"John es plu grand ——— Helen, e seniora Smith es plu grand ——— John.",
+					"Helen es ——— ——— quam John.",
+					"——— es li max grand del tri enfantes?",
+					"John es li ——— ——— del tri enfantes.",
+					"——— es li max grand del tri cités in Europa?",
+					"London es li ——— ——— cité in Europa.",
+					"——— es li nómine del max grand cité in Norvegia?",
+					"It es ———.",
+					"U ——— London?",
+					"London es in ———.",
+					"——— es Paris?",
+					"Paris es in ———.",
+					"——— es Stockholm?",
+					"Stockholm es in ———.",
+					"——— es Berlin?",
+					"Berlin es in ———.",
+					"——— es Moscva?",
+					"Moscva es in ———."
+				],
+				"aside": [
+					[
+						"PAROLES:",
+						"<p></p>",
+						"vive",
+						"dom",
+						"fenestre",
+						"porta",
+						"mur",
+						"tegment",
+						"sómmite",
+						"u?",
+						"Francia",
+						"Francesese",
+						"Svedia",
+						"Svedeses",
+						"Germania",
+						"Germanes",
+						"Dania",
+						"Daneses",
+						"Norvegia",
+						"Norvegeses",
+						"Europa",
+						"Anglia",
+						"Angleses",
+						"Russia",
+						"Russeses",
+						"Finland",
+						"Finlandeses",
+						"land",
+						"cité",
+						"Paris",
+						"Stockholm",
+						"Berlin",
+						"Oslo",
+						"Helsinki",
+						"Copenhagen",
+						"Moscow"
+					]
+				]
+			}
+		]
+	},
+	{
+		"id": 28,
+		"index_title": "Capitul quar (4)",
+		"index_slug": "Quaresim capitul",
+		"page": [
+			{
+				"id": 36,
+				"content": [
+					"<h3 class='chapter-sub-title'>Practica B</h3>",
+					"Quel persones vive in Anglia?",
+					"———...",
+					"Quel persones vive in Russia?",
+					"———...",
+					"Quel persones vive in Svedia?",
+					"———...",
+					"Esque Anglia es plu grand quam Dania?",
+					"———...",
+					"Esque Anglia es plu grand quam Francia?",
+					"———...",
+					"Esque Norvegia es plu grand quam Svedia?",
+					"———...",
+					"Quel persones vive in Norvegia?",
+					"———...",
+					"Esque Russia es plu grand quam Germania?",
+					"———...",
+					"Quel persones vive in Germania?",
+					"———...",
+					"Quel persones vive in Francia?",
+					"———...",
+					"Esque li dom de senior e seniora Smith es un grand dom?",
+					"———...",
+					"Esque Baby un grand puella?",
+					"———...",
+					"Esque Helen es plu litt quam John?",
+					"———...",
+					"Esque Helen plu grnad quam su matre?",
+					"———...",
+					"Quo es púeres e puellas?",
+					"———...",
+					"Quo es mannes, féminas, e enfantes?",
+					"———...",
+					"Esque hay mult persones in Anglia?",
+					"———...",
+					"Quant persones existe in Finland?",
+					"———...",
+					"Esque hay plu mult persones in Dania quam in Svedia?",
+					"———...",
+					"Esque hay plu mult persones in England quam in Dania?",
+					"———...",
+					"Esque hay plu mult Daneses quam Svedeses?",
+					"———...",
+					"Quant púeres e puellas have senior e seniora Smith?",
+					"———..."
+				],
+				"aside": [
+					[
+						"London",
+						"grand",
+						"quam",
+						"litt",
+						"mannes",
+						"féminas",
+						"persones",
+						"quarantquin",
+						"million",
+						"plu"
+					]
+				]
+			}
+		]
 	}
 
 ]
+
+
