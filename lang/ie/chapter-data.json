@@ -1040,7 +1040,9 @@
 				],
 				"aside": [
 					[
-						
+						[
+							"<image src='lang/ie/img/c_04_p_029_n_1.png'/>"
+						]
 					]
 				]
 			}
@@ -1082,10 +1084,13 @@
 				],
 				"aside": [
 					[
+						"<image src='lang/ie/img/c_04_p_030_n_1.png'/>"
+					],
+					[
 						"un puella",
 						"du puellas",
 						"un púer",
-						"de púeres",
+						"du púeres",
 						"un cité",
 						"du cités",
 						"un land",
@@ -1431,6 +1436,206 @@
 						"quarantquin",
 						"million",
 						"plu"
+					]
+				]
+			}
+		]
+	},
+	{
+		"id": 29,
+		"index_title": "Capitul quin (5)",
+		"index_slug": "Quinesim capitul",
+		"title": "LI CÓRPOR",
+		"chapter_index": 5,
+		"page": [
+			{
+				"id": 37,
+				"content": [
+					"Un person have quar limbes.",
+					"Omni persones have quar limbes.",
+					"Li quar limbes existe sur li córpor.",
+					"Li quar limbes es li du brasses e li du gambes.",
+					"Quant limbes have John?",
+					"John have quar limbes.",
+					"Quo es li quar limbes?",
+					"Li quar limbes es li du du brasses e li du gambes.",
+					"Sur li brasse is un manu, e li manu have quin fingres.",
+					"U es li manus?",
+					"Li manus es sur li brasses.",
+					"Quant fingres have li manu?",
+					"Li manu have quin fingres.",
+					"Sur li gambe, es un pede, e li pede have quin ped-fingre.",
+					"Omni gambes have pedes, e omni pedes have quin ped-figres.",
+					"U es li pedes?",
+					"Li pedes es sur li gambes.",
+					"Quant ped-fingres have li pede?",
+					"Li pede have quin ped-fingres.",
+					"<p></p>",
+					"Quant fingres have Helen?"
+				],
+				"aside": [
+					[
+						"un ped-fingre", 
+						"du ped-fingres",
+						"un pede", 
+						"du pedes" 
+					]
+				]
+			}
+		]
+	},
+	{
+		"id": 30,
+		"index_title": "Capitul quin (5)",
+		"index_slug": "Quinesim capitul",
+		"page": [
+			{
+				"id": 38,
+				"content": [
+					"Ella have deci fingres sur la du manus.",
+					"Quant ped-fingres have la?",
+					"Ella have deci ped-fingres sur la du pedes.",
+					"Li córpor have un cap.",
+					"Quo es li cap?",
+					"Li cap es li sómmite del córpor.",
+					"Sur li cap mult persones have capille.",
+					"Ne omni persones have capille; mult old mannes ne have capille.",
+					"Have Senior Smith long capille?",
+					"Null, el have curt capille.",
+					"Esque li capille de seniora Smith es long?",
+					"Yes, ella have long capille; ella have plu long capille quam seni Smith.",
+					"Esque li capille de Helen es long?",
+					"Null, ella have curt capille, ma li capille de John es plu curt quam ti de Helen",
+					"Qui have max mult capille, seniora Smith o Helen o John?",
+					"Seniora Smith have max mult capille; ella capille es li max long.",
+					"Have John plu capille quam Helen?",
+					"Null, Helen have plu capille quam John, ma seniora Smith have max mult capille de omni persones in li familie.",
+					"Seniora Smith have long capille; ella have mult capille."
+				],
+				"aside": [
+					[
+						"Li capille de John.",
+						"Li capille de seniora Smith."
+					]
+				]
+			}
+		]
+	},
+	{
+		"id": 31,
+		"index_title": "Capitul quin (5)",
+		"index_slug": "Quinesim capitul",
+		"page": [
+			{
+				"id": 39,
+				"content": [
+					"Ella have plu capille quam Helen.",
+					"Ella have max mult capille de omni persones in li familie.",
+					"Have John mult capille?",
+					"Null, il have ne mult capille; su capille es curt; ma seniora Smith have mult capille; ella have plu capille quam senior Smith e li enfantes.",
+					"Have omni mannes e féminas capille?",
+					"Null, ne omni mannes e féminas have capille; ma max mult persones have capille.",
+					"<p></p>",
+					"Un person have un visage.",
+					"Li visage have du ocules e du oreles.",
+					"Omni persones have visages, e omni visages have du ocules e du oreles.",
+					"Quant ocules have Helen?",
+					"Helen have du ocules; ella have anc du oreles.",
+					"Helen have anc un bocca e un nase in su visage.",
+					"U es li nase e li bocca?",
+					"Ili es in li visage.",
+					"Quo es li visage?",
+					"Li visage es parte del cap.",
+					"Quo es sur li cap?"
+				],
+				"aside": [
+					[
+						"mult", 
+						"plu", 
+						"max",
+						"Seniora Smith have mult capille.",
+						"Ella have plu capille quam Helen.",
+						"Ella have max capille de omni li persones in li familie.",
+						"Hay mult persones in Svedia.",
+						"Hay plu persones in Anglia.",
+						"Hay max persones in Germania."
+					]
+				]
+			}
+		]
+	},
+	{
+		"id": 32,
+		"index_title": "Capitul quin (5)",
+		"index_slug": "Quinesim capitul",
+		"page": [
+			{
+				"id": 40,
+				"content": [
+					"Hay capille sur li cap.",
+					"Esque li brasse plu grand quam li gambe?",
+					"Null, li brasse es plu litt quam li gambe.",
+					"Esque li fingres parte del visage?",
+					"Null, li fingres es parte del manus.",
+					"Quo es li manus parte de?",
+					"Li manus es parte del brasses.",
+					"Quo es li oreles parte de?",
+					"Li oreles es parte del cap.",
+					"Esque li pedes parte del brasses o li gambas?",
+					"Li pedes es parte del gambas.",
+					"Esque li bebé un púer o puella?",
+					"Ella es un puella.",
+					"Esque senior Smith yun o old?",
+					"Il es yun.",
+					"Li col es parte del córpor.",
+					"Sur li col es li cap.",
+					"Anc li stomac es parte del córpor.",
+					"Li stomac es in li fronte del córpor.",
+					"Anc li dorse es parte del córpor.",
+					"Li dorse es in li detra del córpor.",
+					"Li brasses es in li flancas del córpor.",
+					"U es li col?",
+					"Li col es in li sómmite del córpor."
+				],
+				"aside": [
+					[
+					
+					]
+				]
+			}
+		]
+	},
+	{
+		"id": 31,
+		"index_title": "Capitul quin (5)",
+		"index_slug": "Quinesim capitul",
+		"page": [
+			{
+				"id": 39,
+				"content": [
+				
+				],
+				"aside": [
+					[
+					
+					]
+				]
+			}
+		]
+	},
+	{
+		"id": 31,
+		"index_title": "Capitul quin (5)",
+		"index_slug": "Quinesim capitul",
+		"page": [
+			{
+				"id": 39,
+				"content": [
+				
+				],
+				"aside": [
+					[
+					
 					]
 				]
 			}
